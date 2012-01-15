@@ -9,9 +9,9 @@ body {
   margin: 0; padding: 0;
 }
 
-.menu { @include column(5); }
-.menumobile { display: none; }
-.main {  @include column(7); }
+.menu { @include column(5); background-color: blue; }
+.menumobile { display: none; background-color: yellow; }
+.main {  @include column(7); background-color: red; }
 .footer { display: none; }
 
 @media screen and (max-width: 960px) {
