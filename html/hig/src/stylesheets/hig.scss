@@ -11,9 +11,9 @@ body {
 }
 
 .contain { @include row(1) }
-.menu { @include column(5,1); }
+.menu { @include column(1,5); }
 .menumobile { display: none; }
-.main {  @include column(11,1); }
+.main {  @include column(1,11); }
 .footer { @inlude column(16); }
 
 @media screen and (max-width: 960px) {
