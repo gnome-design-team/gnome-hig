@@ -10,7 +10,7 @@ body {
   margin: 0; padding: 0;
 }
 
-.contain { @include row() }
+.contain { @include row(2) }
 .menu { @include column(5); }
 .menumobile { display: none; }
 .main {  @include column(11); }
