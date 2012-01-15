@@ -14,9 +14,9 @@ body {
 .main {  @include column(11); background-color: red; }
 
 .contain {
-  @include row(1);
-  .menu2 { @include column(1,5); background-color: blue; }
-  .main2 {  @include column(1,11); background-color: red; }
+  @include row(16);
+  .menu2 { @include column(5,16); background-color: blue; }
+  .main2 {  @include column(11,16); background-color: red; }
 }
 
 .menumobile { display: none; background-color: yellow; }
