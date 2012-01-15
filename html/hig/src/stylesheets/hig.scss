@@ -24,9 +24,3 @@ body {
   .main {  @include column(16);  }
   .footer { @inlude column(16);  }
 }
-
-@media screen and (min-width: 481px) {
-  body {
-    background-color: blue;
-  }
-}
