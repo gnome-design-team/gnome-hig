@@ -29,7 +29,7 @@ body {
   }
   .contain {
     .menu { display: none;  }
-    .main {  @include column(16,16);  }
+    .main {  @include column(16,16);  background-color: green; }
   }
   .menumobile { @include column(16,16); }  
   
