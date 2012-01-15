@@ -4465,9 +4465,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="2047.025"
-     inkscape:cy="663.18559"
+     inkscape:zoom="1"
+     inkscape:cx="620.02501"
+     inkscape:cy="992.18559"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -5798,7 +5798,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot100510"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(20,0)"><flowRegion
          id="flowRegion100512"><rect
            id="rect100514"
@@ -5806,7 +5806,7 @@
            height="284"
            x="331"
            y="370"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#3465a4" /></flowRegion><flowPara
          id="flowPara100524">GNOME 3 Design Principles</flowPara><flowPara
          id="flowPara100557">Design Strategies</flowPara><flowPara
          id="flowPara100559">System Shell</flowPara><flowPara
@@ -5824,12 +5824,12 @@
          id="flowPara100538" /><flowPara
          id="flowPara100540" /><flowPara
          id="flowPara100542" /></flowRoot>    <flowRoot
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot100571"
        xml:space="preserve"
        transform="translate(20,320)"><flowRegion
          id="flowRegion100573"><rect
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#3465a4"
            y="370"
            x="331"
            height="284"
