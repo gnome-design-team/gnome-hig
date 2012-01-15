@@ -9,6 +9,10 @@ body {
   font-family:  Cantarell, Sans-Serif;
 }
 
+.contain {
+  @include row();
+}
+
 .menu {
   @include column(5);
 }
@@ -18,6 +22,7 @@ body {
 }
 
 .footer {
+  @include row();
   @inlude column(16);
 }
 
