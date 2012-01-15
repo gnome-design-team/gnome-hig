@@ -13,7 +13,7 @@ body {
 .contain { @include row(1) }
 .menu { @include column(1,5); }
 .menumobile { display: none; }
-.main {  @include column(1,11); }
+.main {  @include column(1,7); }
 .footer { display: none; }
 
 @media screen and (max-width: 960px) {
@@ -21,7 +21,7 @@ body {
     font-size: 200%;
   }
   .menu { display: none;  }
-  .menumobile { @include column(16); }
-  .main {  @include column(16);  }
-  .footer { @inlude column(16);  }
+  .menumobile { @include column(12); }
+  .main {  @include column(12);  }
+  .footer { @inlude column(12);  }
 }
