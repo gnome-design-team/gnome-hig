@@ -2,7 +2,7 @@
 %html
   %head
     %title StaticMatic
-    = stylesheets :general
+    = stylesheets :general => "all and (color)"
   %body
     = yield
   = partial('footer')
