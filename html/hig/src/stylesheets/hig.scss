@@ -13,21 +13,17 @@ body {
   @include row();
 }
 
-.menu {
-  @include column(5);
-}
-
-.main {
-  @include column(11);
-}
-
+.menu { @include column(5); }
+.menumobile { display: none; }
+.main {  @include column(11); }
 .footer {
   @include row();
   @inlude column(16);
 }
 
 @media screen and (max-width: 480px) {
-  .menu { @include column(16);  }
+  .menu { display: none;  }
+  .menumobile { @include column(16); }
   .main {  @include column(16);  }
   .footer { @inlude column(16);  }
 }
