@@ -1,5 +1,9 @@
 @import 'grid';
 
+@column-width: 60;
+@gutter-width: 20;
+@columns: 12;
+
 body {
   font-family:  Cantarell, Sans-Serif;
 }
