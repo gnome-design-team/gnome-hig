@@ -28,6 +28,7 @@ body {
     font-size: 200%;
   }
   .contain {
+    @include row(16); //reinclude for relative sizes
     .menu { @include column(0,16); display: none; }
     .main {  @include column(16,16);  background-color: green; }
   }
