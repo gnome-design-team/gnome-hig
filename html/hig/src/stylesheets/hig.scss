@@ -19,6 +19,9 @@ body {
 }
 
 @media screen and (max-width: 960px) {
+  body {
+    font-size: 200%;
+  }
   .menu { display: none;  }
   .menumobile { @include column(16); }
   .main {  @include column(16);  }
