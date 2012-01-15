@@ -10,10 +10,10 @@ body {
   margin: 0; padding: 0;
 }
 
-.contain { @include row(0) }
-.menu { @include column(0,5); }
+.contain { @include row() }
+.menu { @include column(5); }
 .menumobile { display: none; }
-.main {  @include column(0,7); }
+.main {  @include column(7); }
 .footer { display: none; }
 
 @media screen and (max-width: 960px) {
