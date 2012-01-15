@@ -28,7 +28,7 @@ body {
     font-size: 200%;
   }
   .contain {
-    .menu { display: none;  }
+    .menu { @include column(0,16); display: none; }
     .main {  @include column(16,16);  background-color: green; }
   }
   .menumobile { @include column(16,16); }  
