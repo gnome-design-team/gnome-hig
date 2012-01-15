@@ -4465,11 +4465,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="958.37617"
-     inkscape:cy="1257.3857"
+     inkscape:zoom="0.25"
+     inkscape:cx="2047.025"
+     inkscape:cy="663.18559"
      inkscape:document-units="px"
-     inkscape:current-layer="g15276"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -4924,7 +4924,7 @@
              transform="translate(0,-0.98484)"
              sodipodi:end="6.2831853"
              sodipodi:start="3.1415927"
-             d="M 9,29.999999 C 9.0000011,21.163443 27.804042,14 51.000002,14 74.195961,14 93,21.163444 93,30 l -42,0 z"
+             d="M 9,29.999999 A 42,16 0 0 1 93,30 l -42,0 z"
              sodipodi:ry="16"
              sodipodi:rx="42"
              sodipodi:cy="30"
@@ -5272,7 +5272,7 @@
            sodipodi:cy="250"
            sodipodi:rx="1.5"
            sodipodi:ry="1.5"
-           d="m 105.375,250 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
+           d="m 105.375,250 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
            transform="matrix(1.75,0,0,1.75,-77.90625,-187.5)" />
         <rect
            style="fill:url(#radialGradient98377-9);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5713-3);enable-background:new"
@@ -5302,7 +5302,7 @@
            sodipodi:cy="250"
            sodipodi:rx="1.5"
            sodipodi:ry="1.5"
-           d="m 105.375,250 c 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 0.82843,0 1.5,0.67157 1.5,1.5 z"
+           d="m 105.375,250 a 1.5,1.5 0 1 1 -3,0 1.5,1.5 0 1 1 3,0 z"
            transform="matrix(1.0428932,0,0,1.0428932,83.428349,-10.90008)" />
         <rect
            style="opacity:0.36529679;fill:url(#radialGradient98383-1);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;enable-background:new"
@@ -5700,7 +5700,7 @@
        id="text98080"
        y="193.10199"
        x="331.76486"
-       style="font-size:31.50141716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Copse;-inkscape-font-specification:Copse"
+       style="font-size:31.50141716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Copse;-inkscape-font-specification:Copse"
        xml:space="preserve"><tspan
          y="193.10199"
          x="331.76486"
@@ -5736,7 +5736,7 @@
          style="font-weight:normal"
          id="flowPara100475">a small set of pages containing essential design advice and rules. </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="629.76489"
        y="950.10199"
        id="text100477"
@@ -5767,7 +5767,7 @@
        id="text100493"
        y="950.10199"
        x="929.76489"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
          y="950.10199"
          x="929.76489"
@@ -6127,7 +6127,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,547.63782)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="color:#000000;fill:none;stroke:#f57900;stroke-width:0.40923116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
