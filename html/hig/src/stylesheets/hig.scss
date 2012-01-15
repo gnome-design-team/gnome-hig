@@ -31,7 +31,7 @@ body {
   }
   .contain {    
     .menu { display: none; }
-    .main {  @include column(16);  background-color: green; }
+    .main {  @include column(16); }
   }
   .menumobile { @include column(16); }  
   
