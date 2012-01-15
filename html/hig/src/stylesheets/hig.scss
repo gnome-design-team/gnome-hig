@@ -22,13 +22,15 @@ body {
 .menumobile { display: none; background-color: yellow; }
 .footer { display: none; }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 980px) {
   $total-width: 100%;
   body {
     font-size: 200%;
   }
   .menu { display: none;  }
-  .menumobile { @include column(16); }
-  .main {  @include column(16);  }
+  
+  .main {  @include column(16,16);  }
+  .menumobile { @include column(16,16); }  
+  
   .footer { @inlude column(16);  }
 }
