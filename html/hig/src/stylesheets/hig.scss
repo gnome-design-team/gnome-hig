@@ -13,9 +13,7 @@ body {
 .menu { @include column(5); }
 .menumobile { display: none; }
 .main {  @include column(11); }
-.footer {
-  @inlude column(16);
-}
+.footer { @inlude column(16); }
 
 @media screen and (max-width: 960px) {
   body {
