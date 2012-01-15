@@ -2,9 +2,13 @@ body {
   font-family:  Cantarell, Sans-Serif;
 }
 @media screen and (max-width: 480px) {
-  background-color: red;
+  body {
+    background-color: red;
+  }
 }
 
 @media screen and (min-width: 481px) {
-  background-color: blue;
+  body {
+    background-color: blue;
+  }
 }
