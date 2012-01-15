@@ -10,11 +10,11 @@ body {
 }
 
 .menu {
-  .column(5);
+  @include column(5);
 }
 
 .main {
-  .column(11);
+  @include column(11);
 }
 
 @media screen and (max-width: 480px) {
