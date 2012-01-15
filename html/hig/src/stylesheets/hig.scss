@@ -4,7 +4,6 @@ $column-width: 60;
 $gutter-width: 20;
 $columns: 12;
 
-
 body {
   font-family:  Cantarell, Sans-Serif;
   margin: 0; padding: 0;
@@ -16,6 +15,7 @@ body {
 .footer { display: none; }
 
 @media screen and (max-width: 960px) {
+  $total-width: 100%;
   body {
     font-size: 200%;
   }
