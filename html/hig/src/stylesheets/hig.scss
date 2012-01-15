@@ -22,9 +22,9 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-  body {
-    background-color: red;
-  }
+  .menu { @include column(16);  }
+  .main {  @include column(16);  }
+  .footer { @inlude column(16);  }
 }
 
 @media screen and (min-width: 481px) {
