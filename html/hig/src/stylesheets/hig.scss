@@ -27,9 +27,10 @@ body {
   body {
     font-size: 200%;
   }
-  .menu { display: none;  }
-  
-  .main {  @include column(16,16);  }
+  .contain {
+    .menu { display: none;  }
+    .main {  @include column(16,16);  }
+  }
   .menumobile { @include column(16,16); }  
   
   .footer { @inlude column(16);  }
