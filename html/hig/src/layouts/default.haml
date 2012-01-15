@@ -4,11 +4,10 @@
     %title StaticMatic
     = stylesheets :hig, :media => "screen"
   %body
-    .contain
-      %section.menu
-        = partial('menu')
-      %section.main
-        = yield
+    %section.menu
+      = partial('menu')
+    %section.main
+      = yield
     %section.menumobile
       = partial('menu')
     %section.footer
