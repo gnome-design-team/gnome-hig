@@ -1,12 +1,18 @@
 @import 'grid';
 
-@column-width: 60;
-@gutter-width: 20;
-@columns: 12;
+@column-width: 40;
+@gutter-width: 10;
+@columns: 16;
+@total-width: 100%;
 
 body {
   font-family:  Cantarell, Sans-Serif;
 }
+
+.menu {
+  .column(3)
+}
+
 @media screen and (max-width: 480px) {
   body {
     background-color: red;
