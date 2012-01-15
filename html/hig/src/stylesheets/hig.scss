@@ -1,8 +1,8 @@
 @import 'grid';
 
-$column-width: 60;
+$column-width: 40;
 $gutter-width: 20;
-$columns: 12;
+$columns: 16;
 
 body {
   font-family:  Cantarell, Sans-Serif;
@@ -14,9 +14,11 @@ body {
 .main {  @include column(7); background-color: red; }
 
 .contain {
-  @include row(16);
-  .menu { @include column(5,12); background-color: blue; }
-  .main {  @include column(7,12); background-color: red; }
+	max-width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+  .menu { @include column(5,16); background-color: blue; }
+  .main {  @include column(11,16); background-color: red; }
 }
 
 .menumobile { display: none; background-color: yellow; }
@@ -27,12 +29,11 @@ body {
   body {
     font-size: 200%;
   }
-  .contain {
-    @include row(12); //reinclude for relative sizes
-    .menu { @include column(0); display: none; }
-    .main {  @include column(12);  background-color: green; }
+  .contain {    
+    .menu { display: none; }
+    .main {  @include column(16);  background-color: green; }
   }
-  .menumobile { @include column(12,12); }  
+  .menumobile { @include column(16); }  
   
-  .footer { @inlude column(12);  }
+  .footer { @inlude column(16);  }
 }
