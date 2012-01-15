@@ -9,10 +9,7 @@ body {
   font-family:  Cantarell, Sans-Serif;
 }
 
-.contain {
-  @include row();
-}
-
+.contain { @include row(); }
 .menu { @include column(5); }
 .menumobile { display: none; }
 .main {  @include column(11); }
