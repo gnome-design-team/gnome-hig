@@ -76,7 +76,7 @@ h2.punchline {
       } 
       &.collapsed {
         &>li {
-          padding: 0;
+          padding: 0; /* FIXME */
         }
       }   
     }
