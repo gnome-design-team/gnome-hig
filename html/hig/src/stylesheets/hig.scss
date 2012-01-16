@@ -30,6 +30,9 @@ body {
 img {
   width: 100%;
   height: auto;
+  &.logo {
+    width: inherit;
+  }
 }
 
 h2.punchline {
