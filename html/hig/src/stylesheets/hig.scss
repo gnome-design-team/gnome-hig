@@ -41,6 +41,12 @@ h2.punchline {
   @include text-shadow(0,1px,0,#fff);
 }
 
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
 .menu {
   ul {
     display: block;
