@@ -67,7 +67,10 @@ h2.punchline {
     }
 }
 
-.menu { @include column(5); }
+.menu { 
+  @include column(5); 
+  margin-top: 6em;
+}
 .main {  @include column(7); }
 
 .contain {
