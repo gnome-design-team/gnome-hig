@@ -14,5 +14,5 @@
 @font-face {
   font-family: 'Copse';
   src: local('Copse'), local('Copse Regular'),
-  url(../fonts/Copse-Regular.otf);
+  url(../fonts/Copse-Regular.ttf);
 }
