@@ -73,7 +73,12 @@ h2.punchline {
         display: block;
         margin:  0 0 1em ;
         padding-left: 24px;
-      }    
+      } 
+      &.collapsed {
+        &>li {
+          padding: 0;
+        }
+      }   
     }
     a {
       text-decoration: none;
