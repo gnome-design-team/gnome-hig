@@ -30,7 +30,9 @@ img {
 .menu {
   ul {
     display: block;
-    
+    li {
+      display: block;
+    }    
   }
   a {
     text-decoration: none;
