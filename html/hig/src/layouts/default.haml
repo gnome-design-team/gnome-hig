@@ -5,11 +5,12 @@
     = stylesheets :hig, :media => "screen"
   %body
     .contain
-      %section.menu
-        %a{:href => '/', :class => 'smalllogo'}
-          =img "gnome-logo.png", :class => 'foot'
-          .punchline Human Interface Guidelines
-        = partial('menu')
+      %section.sidebar
+        .menu
+          %a{:href => '/', :class => 'smalllogo'}
+            =img "gnome-logo.png", :class => 'foot'
+            .punchline Human Interface Guidelines
+          = partial('menu')
       %section.main
         = yield
     %section.menumobile
