@@ -129,16 +129,16 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
 .contain .sidebar .menu a:hover {
   text-decoration: underline;
 }
-/* line 95 */
-.contain .sidebar .menu .smalllogo {
+/* line 96 */
+.contain .sidebar .smalllogo {
   display: block;
 }
-/* line 97 */
-.contain .sidebar .menu .smalllogo + .menu {
+/* line 98 */
+.contain .sidebar .smalllogo + .menu {
   margin: 80px 10px 0;
 }
-/* line 100 */
-.contain .sidebar .menu .smalllogo .punchline {
+/* line 101 */
+.contain .sidebar .smalllogo .punchline {
   font-size: 115%;
 }
 /* line 104 */
