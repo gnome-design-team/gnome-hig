@@ -8,8 +8,9 @@
       =img "gnome-logo.png", :class => 'foot'
       .punchline Human Interface Guidelines
     .contain      
-      %section.menu
-        = partial('menu')
+      %section.sidebar
+        .menu
+          = partial('menu')
       %section.main
         = yield
     %section.menumobile
