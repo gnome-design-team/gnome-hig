@@ -93,10 +93,10 @@ h1,h2,h3,h4,h5,h6 {
         }
         .smalllogo {
           display: block;
-          font-size: 80%;
           &+.menu {
             margin: 80px 10px 0;
           }
+          .punchline { font-size: 50%; }
         }
       } 
     }
