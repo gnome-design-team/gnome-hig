@@ -9,6 +9,10 @@ body {
   margin: 0; padding: 0;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
 
 .menu { @include column(5); }
 .main {  @include column(7); }
