@@ -79,7 +79,10 @@ h1,h2,h3,h4,h5,h6 {
           display: block;
           margin:  0 0 .5em ;
           padding-left: 24px;
-        } 
+        }
+        &.current a {
+          color: black;
+        }
         &.collapsed {
           &>li {
             padding: 0; /* FIXME */
@@ -90,9 +93,6 @@ h1,h2,h3,h4,h5,h6 {
         text-decoration: none;
         &:hover {
           text-decoration: underline;
-        }
-        &.current {
-          color: black;
         }
       }
     }
