@@ -4,11 +4,11 @@
     %title GNOME Human Interface Guidelines
     = stylesheets :hig, :media => "screen"
   %body
-    %a{:href => '/', :class => 'smalllogo'}
-        =img "gnome-logo.png", :class => 'foot'
-        .punchline Human Interface Guidelines
     .contain
       %section.menu
+        %a{:href => '/', :class => 'smalllogo'}
+          =img "gnome-logo.png", :class => 'foot'
+          .punchline Human Interface Guidelines
         = partial('menu')
       %section.main
         = yield
