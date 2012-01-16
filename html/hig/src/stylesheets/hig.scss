@@ -10,18 +10,18 @@ body {
 }
 
 
-.menu { @include column(5); background-color: blue; }
-.main {  @include column(7); background-color: red; }
+.menu { @include column(5); }
+.main {  @include column(7); }
 
 .contain {
 	max-width: 960px;
 	margin: 0 auto;
 	overflow: hidden;
-  .menu { @include column(5,16); background-color: blue; }
-  .main {  @include column(11,16); background-color: red; }
+  .menu { @include column(5,16); }
+  .main {  @include column(11,16);}
 }
 
-.menumobile { display: none; background-color: yellow; }
+.menumobile { display: none; }
 .footer { display: none; }
 
 @media screen and (max-width: 960px) {
