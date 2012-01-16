@@ -89,6 +89,7 @@ h2.punchline {
   body {
     font-size: 200%;
   }
+  .logo { position: static; }
   .contain {    
     .menu { display: none; }
     .main {  @include column(16); }
