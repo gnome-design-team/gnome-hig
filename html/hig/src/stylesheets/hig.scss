@@ -4,6 +4,19 @@ $column-width: 40;
 $gutter-width: 20;
 $columns: 16;
 
+$link = '#3465a4'
+
+
+a { 
+  color: $link;
+  &:hover {
+    color: lighten($link,10%);
+  }
+  &:active {
+    color: darken($link,10%);
+  }
+}
+
 body {
   font-family:  Cantarell, Sans-Serif;
   margin: 0; padding: 0;
@@ -12,6 +25,16 @@ body {
 img {
   width: 100%;
   height: auto;
+}
+
+#menu {
+  ul {
+    display: block;
+    
+  }
+  a {
+    text-decoration: none;
+    }
 }
 
 .menu { @include column(5); }
