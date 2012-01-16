@@ -60,13 +60,6 @@ h1,h2,h3,h4,h5,h6 {
   display: block;
 }
 
-.smalllogo {
-  display: block;
-  &+.menu {
-    margin: 80px 10px 0;
-  }
-}
-
 .main {  @include column(7); }
 
 .contain {
@@ -99,6 +92,12 @@ h1,h2,h3,h4,h5,h6 {
           text-decoration: underline;
         }
       } 
+      .smalllogo {
+        display: block;
+        &+.menu {
+          margin: 80px 10px 0;
+        }
+      }
     }
 	}
   .main {  @include column(11,16);}
