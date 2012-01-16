@@ -53,7 +53,7 @@ h2.punchline {
 
 .menu {
   @include column(5); 
-  margin: 6em 10px 0;
+  margin: 6em 10px 0 !important;
 
   ul {
     display: block;
