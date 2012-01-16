@@ -101,7 +101,7 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
 }
 /* line 71 */
 .contain .sidebar .menu {
-  margin: 200px 10px 0;
+  margin: 200px 0 0;
 }
 /* line 73 */
 .contain .sidebar .menu ul {
@@ -116,32 +116,43 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
   margin: 0 0 .5em;
   padding-left: 24px;
 }
+/* line 82 */
+.contain .sidebar .menu ul li.current a {
+  color: black;
+}
 /* line 84 */
+.contain .sidebar .menu ul li.current a:hover {
+  text-decoration: none;
+  cursor: default;
+}
+/* line 91 */
 .contain .sidebar .menu ul.collapsed > li {
   padding: 0;
   /* FIXME */
 }
-/* line 89 */
+/* line 96 */
 .contain .sidebar .menu a {
   text-decoration: none;
 }
-/* line 91 */
+/* line 98 */
 .contain .sidebar .menu a:hover {
   text-decoration: underline;
 }
-/* line 96 */
+/* line 103 */
 .contain .sidebar .smalllogo {
   display: block;
+  text-decoration: none;
 }
-/* line 98 */
+/* line 106 */
 .contain .sidebar .smalllogo + .menu {
-  margin: 80px 10px 0;
+  margin: 25px 0 0;
 }
-/* line 101 */
+/* line 109 */
 .contain .sidebar .smalllogo .punchline {
   font-size: 115%;
+  margin-top: 8px;
 }
-/* line 104 */
+/* line 112 */
 .contain .main {
   display: inline;
   float: left;
@@ -149,23 +160,23 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
   margin: 0 10px;
 }
 
-/* line 107 */
+/* line 115 */
 .menumobile {
   display: none;
 }
 
-/* line 108 */
+/* line 116 */
 .footer {
   display: none;
 }
 
 @media screen and (max-width: 960px) {
-  /* line 112 */
+  /* line 120 */
   body {
     font-size: 200%;
   }
 
-  /* line 115 */
+  /* line 123 */
   .logo {
     position: static;
     margin: 1em 1.042% 0;
@@ -173,11 +184,11 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
     overflow: hidden;
   }
 
-  /* line 122 */
+  /* line 130 */
   .contain .menu {
     display: none;
   }
-  /* line 123 */
+  /* line 131 */
   .contain .main {
     display: inline;
     float: left;
@@ -185,7 +196,7 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
     margin: 0 1.042%;
   }
 
-  /* line 125 */
+  /* line 133 */
   .menumobile {
     display: inline;
     float: left;
@@ -193,7 +204,7 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
     margin: 0 1.042%;
   }
 
-  /* line 127 */
+  /* line 135 */
   .footer {
 @inlude column(16);
   }
