@@ -91,14 +91,14 @@ h1,h2,h3,h4,h5,h6 {
         &:hover {
           text-decoration: underline;
         }
-        .smalllogo {
-          display: block;
-          &+.menu {
-            margin: 80px 10px 0;
-          }
-          .punchline { font-size: 115%; }
+      }
+      .smalllogo {
+        display: block;
+        &+.menu {
+          margin: 80px 10px 0;
         }
-      } 
+        .punchline { font-size: 115%; }
+      }
     }
 	}
   .main {  @include column(11,16);}
