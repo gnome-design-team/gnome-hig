@@ -43,8 +43,10 @@ h2.punchline {
 
 .logo {
   position: absolute;
+  width: 960px;
   top: 10px;
-  left: 10px;
+  left: 50px;
+  margin-left: -480px;
 }
 
 .menu {
