@@ -10,9 +10,6 @@ module MenubarHelper
   #   :a  = { any html attributes for all a tags }
   # Usage: = menubar 'foo', ['bar', '/'], 'other', :selected => { :id => 'current', :item => :a } 
   def menubar(*params)
-    unless StaticMatic::VERSION.requirements_met?('0.9.0')
-      return "StaticMatic 0.9.0 required for menubar"
-    end
 
     options = {}
     if params.last.is_a?(Hash)
