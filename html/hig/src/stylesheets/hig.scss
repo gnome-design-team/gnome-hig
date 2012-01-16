@@ -36,9 +36,12 @@ img {
   }
 }
 
+h1,h2,h3,h4,h5,h6 {
+  color: #888a85;
+}
+
 h2.punchline {
   font-family: Copse, Cantarell, Sans-Serif;
-  color: #888a85;
   @include text-shadow(0,1px,0,#fff);
 }
 
