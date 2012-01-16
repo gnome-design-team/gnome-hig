@@ -59,7 +59,7 @@ h2.punchline {
 	overflow: hidden;
   .menu { 
     @include column(5,16); 
-    margin: 6em 10px 0;
+    margin: 20px 10px 0;
 
     ul {
       display: block;
