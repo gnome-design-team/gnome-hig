@@ -96,7 +96,7 @@ h1,h2,h3,h4,h5,h6 {
     .smalllogo {
       display: block;
       &+.menu {
-        margin: 25px 10px 0;
+        margin: 25px 0 0;
       }
       .punchline { font-size: 115%; }
     }
