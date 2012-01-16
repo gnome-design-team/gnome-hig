@@ -4,7 +4,10 @@
     %title GNOME Human Interface Guidelines
     = stylesheets :hig, :media => "screen"
   %body
-    FIXME: get back to root
+    %a{:href=>'/'}
+      .logo
+        =img "gnome-logo.png", :class => 'foot'
+        .punchline Human Interface Guidelines
     .contain
       %section.menu
         = partial('menu')
