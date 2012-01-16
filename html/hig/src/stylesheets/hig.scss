@@ -38,6 +38,10 @@ img {
 
 h1,h2,h3,h4,h5,h6 {
   color: #888a85;
+  margin: 1em 0 .5em;
+  &:first-child {
+    margin: 0 0 .5em;
+  }
 }
 
 h2.punchline {
