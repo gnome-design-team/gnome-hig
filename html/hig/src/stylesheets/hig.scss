@@ -91,7 +91,9 @@ h2.punchline {
   }
   .logo { 
     position: static;
-    @include column(16);
+    width: 100%;
+  	margin: 4em auto 0;
+  	overflow: hidden;
   }
   .contain {    
     .menu { display: none; }
