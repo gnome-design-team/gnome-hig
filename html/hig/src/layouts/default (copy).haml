@@ -1,0 +1,15 @@
+!!!
+%html
+  %head
+    %title GNOME Human Interface Guidelines
+    = stylesheets :hig, :media => "screen"
+  %body
+    .contain
+      %section.menu
+        = partial('menu')
+      %section.main
+        = yield
+    %section.menumobile
+      = partial('menu')
+    %section.footer
+      = partial('footer')
