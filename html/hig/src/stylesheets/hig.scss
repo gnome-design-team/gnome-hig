@@ -72,9 +72,10 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 4em auto 0;
 	overflow: hidden;
   .menu { 
-    @include column(5,16); 
-    margin: 200px 10px 0;
-
+    @include column(5,16);    
+    &>ul {
+      margin: 200px 10px 0;
+    }
     ul {
       display: block;
       margin: 0;
