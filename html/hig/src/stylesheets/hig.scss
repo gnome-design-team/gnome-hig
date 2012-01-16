@@ -102,6 +102,7 @@ h1,h2,h3,h4,h5,h6 {
     }
     .smalllogo {
       display: block;
+      text-decoration: none;
       &+.menu {
         margin: 25px 0 0;
       }
