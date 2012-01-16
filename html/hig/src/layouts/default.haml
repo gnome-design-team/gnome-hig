@@ -6,10 +6,10 @@
   %body
     .contain
       %section.sidebar
+        %a{:href => '/', :class => 'smalllogo'}
+          =img "gnome-logo.png", :class => 'foot'
+          .punchline Human Interface Guidelines
         .menu
-          %a{:href => '/', :class => 'smalllogo'}
-            =img "gnome-logo.png", :class => 'foot'
-            .punchline Human Interface Guidelines
           = partial('menu')
       %section.main
         = yield
