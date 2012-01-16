@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6 {
   }
 }
 
-h2.punchline {
+.punchline {
   font-family: Copse, Cantarell, Sans-Serif;
   @include text-shadow(0,1px,0,#fff);
 }
