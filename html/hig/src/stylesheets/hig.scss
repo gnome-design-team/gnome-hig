@@ -52,6 +52,9 @@ h2.punchline {
 }
 
 .menu {
+  @include column(5); 
+  margin: 6em 10px 0;
+
   ul {
     display: block;
     li {
@@ -64,13 +67,10 @@ h2.punchline {
     &:hover {
       text-decoration: underline;
     }
-    }
+  }
 }
 
-.menu { 
-  @include column(5); 
-  margin: 6em 10px 0;
-}
+
 .main {  @include column(7); }
 
 .contain {
