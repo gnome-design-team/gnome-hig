@@ -3,6 +3,7 @@
 @import 'fonts.css';
 @import 'text.css';
 @import 'base';
+
 $column-width: 40;
 $gutter-width: 20;
 $columns: 16;
@@ -32,6 +33,7 @@ img {
 
 h2 {
   font-family: Copse, Cantarell, Sans-Serif;
+  @include text-shadow(0,1px,0,#fff);
 }
 
 .menu {
