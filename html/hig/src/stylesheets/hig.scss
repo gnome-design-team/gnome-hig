@@ -115,7 +115,7 @@ h1,h2,h3,h4,h5,h6 {
 .menumobile { display: none; }
 .footer { display: none; }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-device-width: 960px) {
   $total-width: 100%;
   body {
     font-size: 200%;
