@@ -8,16 +8,16 @@ $column-width: 40;
 $gutter-width: 20;
 $columns: 16;
 
-$link: #3465a4;
-
+$c-link: #3465a4;
+$c-heder: #888a85;
 
 a { 
-  color: $link;
+  color: $c-link;
   &:hover {
-    color: lighten($link,10%);
+    color: lighten($c-link,10%);
   }
   &:active {
-    color: darken($link,10%);
+    color: darken($c-link,10%);
   }
 }
 
@@ -37,7 +37,7 @@ img {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color: #888a85;
+  color: $c-header;
   margin: 2em 0 .5em;
   &:first-child {
     margin: 0 0 .5em;
@@ -45,6 +45,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .punchline {
+  font-size: 200%;
+  color: $c-header;
   font-family: Copse, Cantarell, Sans-Serif;
   @include text-shadow(0,1px,0,#fff);
 }
