@@ -1,0 +1,200 @@
+@import url(reset.css);
+/* line 41, /home/jimmac/SparkleShare/gnome-hig/html/hig/src/stylesheets/grid.scss */
+body {
+  width: 100%;
+  *zoom: 1;
+}
+/* line 27, /home/jimmac/SparkleShare/gnome-hig/html/hig/src/stylesheets/grid.scss */
+body:before, body:after {
+  content: "";
+  display: table;
+}
+/* line 31, /home/jimmac/SparkleShare/gnome-hig/html/hig/src/stylesheets/grid.scss */
+body:after {
+  clear: both;
+}
+
+@import url(fonts.css);
+@import url(text.css);
+/* line 14 */
+a {
+  color: #3465a4;
+}
+/* line 16 */
+a:hover {
+  color: #477ec4;
+}
+/* line 19 */
+a:active {
+  color: #284d7d;
+}
+
+/* line 24 */
+body {
+  font-family: Cantarell, Sans-Serif;
+  margin: 0;
+  padding: 0;
+  background: white url(../images/html-bg.png) 0 10px repeat-x;
+}
+
+/* line 30 */
+img {
+  width: 100%;
+  height: auto;
+}
+/* line 33 */
+img.foot {
+  width: 170px;
+  display: block;
+}
+
+/* line 39 */
+h1, h2, h3, h4, h5, h6 {
+  color: #888a85;
+  margin: 2em 0 .5em;
+}
+/* line 42 */
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
+  margin: 0 0 .5em;
+}
+
+/* line 47 */
+.punchline {
+  font-size: 200%;
+  color: #888a85;
+  font-family: Copse, Cantarell, Sans-Serif;
+  text-shadow: 0 1px 0 white;
+  -moz-text-shadow: 0 1px 0 white;
+  -webkit-text-shadow: 0 1px 0 white;
+}
+
+/* line 54 */
+.logo {
+  position: absolute;
+  width: 960px;
+  top: 70px;
+  left: 50%;
+  margin-left: -480px;
+  display: block;
+}
+
+/* line 63 */
+.main {
+  display: inline;
+  float: left;
+  width: 400px;
+  margin: 0 10px;
+}
+
+/* line 65 */
+.contain {
+  max-width: 960px;
+  margin: 4em auto 0;
+  overflow: hidden;
+}
+/* line 69 */
+.contain .sidebar {
+  display: inline;
+  float: left;
+  width: 280px;
+  margin: 0 10px;
+}
+/* line 71 */
+.contain .sidebar .menu {
+  margin: 200px 10px 0;
+}
+/* line 73 */
+.contain .sidebar .menu ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+/* line 77 */
+.contain .sidebar .menu ul li {
+  margin: 0;
+  display: block;
+  margin: 0 0 .5em;
+  padding-left: 24px;
+}
+/* line 84 */
+.contain .sidebar .menu ul.collapsed > li {
+  padding: 0;
+  /* FIXME */
+}
+/* line 89 */
+.contain .sidebar .menu a {
+  text-decoration: none;
+}
+/* line 91 */
+.contain .sidebar .menu a:hover {
+  text-decoration: underline;
+}
+/* line 94 */
+.contain .sidebar .menu a .smalllogo {
+  display: block;
+}
+/* line 96 */
+.contain .sidebar .menu a .smalllogo + .menu {
+  margin: 80px 10px 0;
+}
+/* line 99 */
+.contain .sidebar .menu a .smalllogo .punchline {
+  font-size: 115%;
+}
+/* line 104 */
+.contain .main {
+  display: inline;
+  float: left;
+  width: 640px;
+  margin: 0 10px;
+}
+
+/* line 107 */
+.menumobile {
+  display: none;
+}
+
+/* line 108 */
+.footer {
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+  /* line 112 */
+  body {
+    font-size: 200%;
+  }
+
+  /* line 115 */
+  .logo {
+    position: static;
+    margin: 1em 1.042% 0;
+    width: 97.917%;
+    overflow: hidden;
+  }
+
+  /* line 122 */
+  .contain .menu {
+    display: none;
+  }
+  /* line 123 */
+  .contain .main {
+    display: inline;
+    float: left;
+    width: 97.917%;
+    margin: 0 1.042%;
+  }
+
+  /* line 125 */
+  .menumobile {
+    display: inline;
+    float: left;
+    width: 97.917%;
+    margin: 0 1.042%;
+  }
+
+  /* line 127 */
+  .footer {
+@inlude column(16);
+  }
+}

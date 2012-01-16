@@ -1,0 +1,14 @@
+/* line 41 */
+body {
+  width: 100%;
+  *zoom: 1;
+}
+/* line 27 */
+body:before, body:after {
+  content: "";
+  display: table;
+}
+/* line 31 */
+body:after {
+  clear: both;
+}
