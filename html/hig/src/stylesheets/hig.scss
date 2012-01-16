@@ -34,7 +34,8 @@ img {
 
 h2 {
   font-family: Copse, Cantarell, Sans-Serif;
-  @include text-shadow(0,1px,0,#888a85);
+  color: #888a85;
+  @include text-shadow(0,1px,0,#fff);
 }
 
 .menu {
