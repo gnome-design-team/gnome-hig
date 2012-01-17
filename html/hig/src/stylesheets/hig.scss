@@ -57,6 +57,12 @@ h1 { font-size: 200%;  }
 .gnomelink {
   width: 960px;
   margin: 0 auto;
+  
+  a {
+    @include column(2);
+    @include push(13);
+    @inlude pull(1);
+  }
 }
 
 .logo {
