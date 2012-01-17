@@ -130,6 +130,7 @@ h1 { font-size: 200%;  }
             a.expand {
               display: block;
               color: black;
+              padding-left: 24px;
               background: url(../images/plus.png) no-repeat 0 0;
               &:hover {
                 text-decoration: none;
