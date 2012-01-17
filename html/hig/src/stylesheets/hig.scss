@@ -126,6 +126,7 @@ h1 { font-size: 200%;  }
         &.collapsed {
           &>li {
             a {
+              display: block;
               color: black;
               margin-top: 2em;
               &:hover {
