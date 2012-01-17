@@ -161,7 +161,7 @@ h1 { font-size: 200%;  }
   @include row(11);
   
   .rimage {
-    @include column(6);
+    @include column(6,11);
   }
 }
 
