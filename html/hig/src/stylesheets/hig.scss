@@ -163,8 +163,8 @@ h1 { font-size: 200%;  }
     width: 97.917%;
     
     div {
-      @include row(6);
-      @include push(10);
+      position: absolute;
+      right: 0;
     }
   }
   .contain {    
