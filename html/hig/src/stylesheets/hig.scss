@@ -89,14 +89,14 @@ h1 { font-size: 200%;  }
   }
 }
 
-.main {  @include column(12); }
+.main {  @include column(11); }
 
 .contain {
 	width: 960px;
 	margin: 4em auto 0;
 	overflow: hidden;
 	.sidebar {
-	  @include column(4,16);
+	  @include column(5,16);
     .menu {    
       margin: 200px 0 0;
       ul {
