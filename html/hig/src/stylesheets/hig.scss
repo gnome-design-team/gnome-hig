@@ -157,6 +157,14 @@ h1 { font-size: 200%;  }
   margin: 0 0 20px 20px;
 }
 
+.columns {
+  @include row(11);
+  
+  .rimage {
+    @include column(6);
+  }
+}
+
 .blurb {
   @include column(5);
   }
