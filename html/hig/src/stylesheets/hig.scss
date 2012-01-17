@@ -161,7 +161,9 @@ h1 { font-size: 200%;  }
   .gnomelink {
     display: none;
   }
-    
+  .blurb {
+    @include row(16);
+  }  
   .contain {    
     .menu { display: none; }
     .main {  @include column(16); }
