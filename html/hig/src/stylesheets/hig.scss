@@ -152,7 +152,8 @@ h1 { font-size: 200%;  }
 
   .logo { 
     position: static;
-    margin: 1em 1.042% 0;
+    display: block;
+    margin: 40px 1.042% 0;
     width: 97.917%;
   	overflow: hidden;
   }
