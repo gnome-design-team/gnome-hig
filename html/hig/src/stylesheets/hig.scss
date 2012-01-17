@@ -166,7 +166,7 @@ h1 { font-size: 200%;  }
   }  
   .contain {
     width: 97.917%;
-    margin: auto;
+    margin: 0 auto;
     .menu { display: none; }
     .main {  @include column(16); }
   }
