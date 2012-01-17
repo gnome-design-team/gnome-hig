@@ -115,6 +115,10 @@ h1 { font-size: 200%;  }
   .main {  @include column(11,16);}
 }
 
+.blurb {
+  column(8);
+  }
+
 .menumobile { display: none; }
 .footer { display: none; }
 
