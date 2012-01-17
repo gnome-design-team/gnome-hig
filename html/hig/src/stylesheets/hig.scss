@@ -59,9 +59,11 @@ h1 { font-size: 200%;  }
   margin: 0 auto;
   
   a {
+    background-color: #fff;
     @include column(2);
     @include push(13);
     @inlude pull(1);
+    @include border-radius(5px);
   }
 }
 
