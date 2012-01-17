@@ -45,8 +45,12 @@ body {
 
 @mixin row($columns:$columns) {
 	display: block;
-	width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
-	margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1);
+	box-sizing: border-box;
+	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
+	//margin: 0
+	@debug 10em + 12em;
+	width: $columns * $column-width;
+	//margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1);
 	// *width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns))-$correction;
 	// *margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1)-$correction;
 	@include clearfix();
