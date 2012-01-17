@@ -147,7 +147,7 @@ h1 { font-size: 200%;  }
 .menumobile { display: none; }
 .footer { display: none; }
 
-@media screen and (max-device-width: 960px) {
+@media screen and (max-width: 960px) {
   $total-width: 100%;
   body {
     font-size: 32pt;
