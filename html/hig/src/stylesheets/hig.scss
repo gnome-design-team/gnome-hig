@@ -61,8 +61,7 @@ h1 { font-size: 200%;  }
   &>div {
     background-color: #fff;
     @include column(2);
-    @include push(13);
-    @inlude pull(1);
+    @include push(14);
     @include border-radius(5px);
     @include box-shadow(0,3px,2px,#8FB3D9);
     a {
