@@ -45,6 +45,7 @@ body {
 
 @mixin row($nestedcolumns:$columns) {
 	display: block;
+	width: $column-width*$nestedcolumns;
 	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
 	//width: $total-width*(($gutter-width+gridsystem-width($nestedcolumns)/gridsystem-width($columns)));
   margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1);
