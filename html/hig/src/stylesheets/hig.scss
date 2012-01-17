@@ -200,6 +200,18 @@ h1 { font-size: 200%;  }
   	  font-size: 120%;
   	}
   }
+
+  .columns {
+    
+    img {
+      @include column(16);
+    }
+
+    p  {
+      @include column(16);
+    }
+  }  
+  
   .contain {
     width: 97.917%;
     margin: 0 auto;
