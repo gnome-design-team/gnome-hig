@@ -116,7 +116,7 @@ h1 { font-size: 200%;  }
 }
 
 .blurb {
-  @include column(8);
+  @include column(5);
   }
 
 .menumobile { display: none; }
