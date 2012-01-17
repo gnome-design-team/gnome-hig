@@ -157,6 +157,7 @@ h1 { font-size: 200%;  }
   
   .rimage {
     @include column(5,11);
+    float: right;
 
     div {
       @include column(6,11);
