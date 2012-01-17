@@ -158,6 +158,15 @@ h1 { font-size: 200%;  }
     width: 97.917%;
   	overflow: hidden;
   }
+  .gnomelogo {
+    margin: 0 1.042%;
+    width: 97.917%;
+    
+    div {
+      @include row(6);
+      @push(10);
+    }
+  }
   .contain {    
     .menu { display: none; }
     .main {  @include column(16); }
