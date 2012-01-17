@@ -128,10 +128,13 @@ h1 { font-size: 200%;  }
             margin-top: 2em;
             padding: 0;
             a.expand {
+              background: url(../images/plus.png) no-repeat 4px 7px;
+            }
+            &>a {
               display: block;
               color: black;
               padding-left: 24px;
-              background: url(../images/plus.png) no-repeat 4px 7px;
+              
               &:hover {
                 text-decoration: none;
               }
