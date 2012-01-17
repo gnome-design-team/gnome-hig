@@ -155,9 +155,6 @@ h1 { font-size: 200%;  }
 @media screen and (max-width: 960px) {
   $total-width: 100%;
 
-  .sidebar {
-    margin: 0;
-  }
   .logo, .smalllogo { 
     position: static;
     display: block;
@@ -184,6 +181,9 @@ h1 { font-size: 200%;  }
     margin: 0 auto;
     .menu { display: none; }
     .main {  @include column(16); }
+    .sidebar {
+      margin: 0;
+    }
   }
   .menumobile { @include column(16); }  
   
