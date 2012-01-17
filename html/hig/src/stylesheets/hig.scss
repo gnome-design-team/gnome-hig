@@ -155,7 +155,7 @@ h1 { font-size: 200%;  }
 @media screen and (max-width: 960px) {
   $total-width: 100%;
 
-  .logo, .smalllogo { 
+  .logo { 
     position: static;
     display: block;
     margin: 20px auto;
