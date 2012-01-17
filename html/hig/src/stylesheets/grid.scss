@@ -53,11 +53,9 @@ body {
 	// *margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1)-$correction;
 	@include clearfix();
 }
-@mixin column($x,$lcolumns:$columns) {
+@mixin column($x,$columns:$columns) {
 	display: inline;
 	float: left;
-  //width: @total-width*((((@gutter-width+@column-width)*@x)-@gutter-width) / @gridsystem-width);
-	//margin: 0 @total-width*((@gutter-width*.5)/@gridsystem-width);
 	
 	width: $total-width*(((($gutter-width+$column-width)*$x)-$gutter-width) / gridsystem-width($columns));
 	margin: 0 $total-width*(($gutter-width*.5)/gridsystem-width($columns));
