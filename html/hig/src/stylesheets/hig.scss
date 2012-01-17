@@ -155,10 +155,13 @@ h1 { font-size: 200%;  }
 .columns {
   @include row(11);
   
-  .rimage {
+  img {
     @include column(5,11);
   }
-  
+
+  p  {
+    @include column(5,11);
+  }
 }
 
 .blurb {
