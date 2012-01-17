@@ -127,7 +127,7 @@ h1 { font-size: 200%;  }
           &>li {
             margin-top: 2em;
             padding: 0;
-            &>a {
+            a.expand {
               display: block;
               color: black;
               background: url(../images/plus.png) no-repeat 0 0;
