@@ -132,6 +132,9 @@ h1 { font-size: 200%;  }
               margin-top: 1em;
               li {
                 padding: 0;
+                a {
+                  color: $link;
+                }
               }
             }
           }
