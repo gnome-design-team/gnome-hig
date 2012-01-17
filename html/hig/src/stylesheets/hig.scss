@@ -151,11 +151,6 @@ h1 { font-size: 200%;  }
   .main {  @include column(11,16);}
 }
 
-.rimage {
-  @include column(5);
-  float: right;
-  margin: 0 0 20px 20px;
-}
 
 .columns {
   @include row(11);
