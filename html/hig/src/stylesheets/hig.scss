@@ -159,9 +159,6 @@ h1 { font-size: 200%;  }
     @include column(5,11);
   }
   
-  div {
-    @include column(6,11);
-  }
 }
 
 .blurb {
