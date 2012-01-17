@@ -127,8 +127,12 @@ h1 { font-size: 200%;  }
           &>li {
             a {
               color: black;
+              margin-top: 2em;
               &:hover {
                 text-decoration: none;
+              }
+              &:first-child {
+                margin-top: 0;
               }
             }
             ul {
