@@ -31,10 +31,6 @@ body {
 img {
   width: 100%;
   height: auto;
-  &.foot {
-    width: 170px;
-    display: block;
-  }
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -86,6 +82,11 @@ h1 { font-size: 200%;  }
   left: 50%;
   margin-left: -480px;
   display: block;
+  
+  img {
+    width: 170px;
+    height: auto;
+  }
 }
 
 .main {  @include column(7); }
