@@ -43,10 +43,11 @@ body {
 	@include clearfix();
 }
 
-@mixin row($columns:$columns) {
+@mixin row($localcolumns:$columns) {
 	display: block;
 	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
 	width: 1px*$columns;
+	height: 1px*$localcolumns;
 	// margin: 0 auto;
 	// *margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1);
 	$correction: 0;
