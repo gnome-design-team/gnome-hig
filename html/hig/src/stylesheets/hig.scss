@@ -161,9 +161,8 @@ h1 { font-size: 200%;  }
   .gnomelink {
     margin: 0 1.042%;
     width: 97.917%;
-     
     }
-  }
+    
   .contain {    
     .menu { display: none; }
     .main {  @include column(16); }
