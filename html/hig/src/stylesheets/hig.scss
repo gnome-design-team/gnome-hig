@@ -125,17 +125,18 @@ h1 { font-size: 200%;  }
         /* COLLAPSING MENU */
         &.collapsed {
           &>li {
+            margin-top: 2em;
             a {
               display: block;
-              color: black;
-              margin-top: 2em;
+              color: black;  
               &:hover {
                 text-decoration: none;
               }
-              &:first-child {
-                margin-top: 0;
-              }
             }
+            &:first-child {
+              margin-top: 0;
+            }
+
             ul {
               margin-top: 1em;
               li {
