@@ -3490,8 +3490,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="676.41754"
-     inkscape:cy="1082.3242"
+     inkscape:cx="620.41754"
+     inkscape:cy="1083.3242"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -3936,7 +3936,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="content"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text98080"
@@ -4383,20 +4384,12 @@
      style="display:inline">
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#a5a5a5;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9"
-       d="m 458.5,133.15625 c -0.51124,0 -1.01451,0.20201 -1.40625,0.59375 L 440.84375,150 315,150 c -4.432,0 -8,3.568 -8,8 l 0,516 c 0,4.432 3.568,8 8,8 l 846,0 c 4.432,0 8,-3.568 8,-8 l 0,-516 c 0,-4.432 -3.568,-8 -8,-8 l -684.84375,0 -16.25,-16.25 c -0.39174,-0.39174 -0.89501,-0.59375 -1.40625,-0.59375 z"
+       style="opacity:0.9;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#a5a5a5;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 458.5,133.15625 c -0.51124,0 -1.01451,0.20201 -1.40625,0.59375 L 440.84375,150 315,150 c -4.432,0 -8,3.568 -8,8 l 0,476 c 0,4.432 3.568,8 8,8 l 846,0 c 4.432,0 8,-3.568 8,-8 l 0,-476 c 0,-4.432 -3.568,-8 -8,-8 l -684.84375,0 -16.25,-16.25 c -0.39174,-0.39174 -0.89501,-0.59375 -1.40625,-0.59375 z"
        id="rect41123-4"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="sscsssssssscss" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#ffffff;stroke-width:0.72210366;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
-       d="m 21,442 212,0"
-       id="path12157-8-0-7-7-1-4-3"
-       mask="url(#mask12112-0-6-5-3-8-4)"
-       transform="matrix(3.8355788,0,0,0.5,251.75708,-18.5)"
-       sodipodi:nodetypes="cc" />
     <text
        sodipodi:linespacing="125%"
        id="text98080-5"
@@ -4504,17 +4497,17 @@
          y="185.10199">Home</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535451;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="329.76489"
-       y="240.10205"
+       y="220.10205"
        id="text5982-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5984-7"
          x="329.76489"
-         y="240.10205">Design Guidelines</tspan></text>
+         y="220.10205">Design Guidelines</tspan></text>
     <flowRoot
-       transform="translate(-1.5258763e-8,-116)"
+       transform="translate(-1.5258763e-8,-136)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot5986-2"
        xml:space="preserve"><flowRegion
@@ -4544,11 +4537,11 @@
          id="flowPara6024-7" /></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text6026-3"
-       y="240.10205"
+       y="220.10205"
        x="567.76489"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535451;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="240.10205"
+         y="220.10205"
          x="567.76489"
          id="tspan6028-8"
          sodipodi:role="line">Design Patterns</tspan></text>
@@ -4556,7 +4549,7 @@
        xml:space="preserve"
        id="flowRoot6030-4"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(238,-90)"><flowRegion
+       transform="translate(238,-110)"><flowRegion
          id="flowRegion6032-0"><rect
            id="rect6034-1"
            width="159"
@@ -4571,7 +4564,7 @@
          id="flowPara7131-4">Other Window Types</flowPara><flowPara
          id="flowPara7133-0">User Interface Components</flowPara><flowPara
          id="flowPara7135-9" /></flowRoot>    <flowRoot
-       transform="translate(239,136)"
+       transform="translate(239,116)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6405-4"
        xml:space="preserve"><flowRegion
@@ -4589,21 +4582,21 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="567.76489"
-       y="274.10205"
+       y="254.10205"
        id="text7297-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7299-8"
          x="567.76489"
-         y="274.10205">Application Basics</tspan></text>
+         y="254.10205">Application Basics</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7301-9"
-       y="500.10211"
+       y="480.10211"
        x="570.76489"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="500.10211"
+         y="480.10211"
          x="570.76489"
          id="tspan7303-5"
          sodipodi:role="line">Presenting Content</tspan></text>
@@ -4611,7 +4604,7 @@
        xml:space="preserve"
        id="flowRoot7305-1"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(418,-90)"><flowRegion
+       transform="translate(418,-144)"><flowRegion
          id="flowRegion7307-0"><rect
            id="rect7309-1"
            width="160"
@@ -4624,15 +4617,15 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="749.76489"
-       y="274.10205"
+       y="220.10205"
        id="text7319-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7321-9"
          x="749.76489"
-         y="274.10205">Finding Content</tspan></text>
+         y="220.10205">Finding Content</tspan></text>
     <flowRoot
-       transform="translate(418,10)"
+       transform="translate(418,-44)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7334-9"
        xml:space="preserve"><flowRegion
@@ -4650,11 +4643,11 @@
          id="flowPara7358-9">Inline toolbars</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7344-3"
-       y="374.10205"
+       y="320.10205"
        x="749.76489"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="374.10205"
+         y="320.10205"
          x="749.76489"
          id="tspan7346-3"
          sodipodi:role="line">Selections &amp; Actions</tspan></text>
@@ -4662,7 +4655,7 @@
        xml:space="preserve"
        id="flowRoot7362-3"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(418,190)"><flowRegion
+       transform="translate(418,136)"><flowRegion
          id="flowRegion7364-5"><rect
            id="rect7366-2"
            width="160"
@@ -4675,15 +4668,15 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="749.76489"
-       y="554.10205"
+       y="500.10205"
        id="text7378-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7380-1"
          x="749.76489"
-         y="554.10205">Navigation</tspan></text>
+         y="500.10205">Navigation</tspan></text>
     <flowRoot
-       transform="translate(600,-90)"
+       transform="translate(600,-144)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7398-8"
        xml:space="preserve"><flowRegion
@@ -4700,11 +4693,11 @@
          id="flowPara7422-5">   Property Windows </flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7408-7"
-       y="274.10205"
+       y="220.10205"
        x="931.76489"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="274.10205"
+         y="220.10205"
          x="931.76489"
          id="tspan7410-0"
          sodipodi:role="line">Other Window Types</tspan></text>
@@ -4712,7 +4705,7 @@
        xml:space="preserve"
        id="flowRoot7428-8"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(600,70)"><flowRegion
+       transform="translate(600,16)"><flowRegion
          id="flowRegion7430-3"><rect
            id="rect7432-0"
            width="160"
@@ -4728,13 +4721,13 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="931.76489"
-       y="434.10211"
+       y="380.10211"
        id="text7442-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7444-8"
          x="931.76489"
-         y="434.10211">User Interface Components</tspan></text>
+         y="380.10211">User Interface Components</tspan></text>
   </g>
   <g
      inkscape:label="grid"
