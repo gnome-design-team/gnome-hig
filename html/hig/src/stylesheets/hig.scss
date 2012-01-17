@@ -125,7 +125,8 @@ h1 { font-size: 200%;  }
         /* COLLAPSING MENU */
         &.collapsed {
           &>li {
-            margin-top: 2em;
+            margin: 2em 0 0;
+            
             a {
               display: block;
               color: black;
