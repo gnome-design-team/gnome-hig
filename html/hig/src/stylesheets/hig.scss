@@ -157,7 +157,10 @@ h1 { font-size: 200%;  }
     margin: 30px 5% 30px;
     width: 90%;
   	overflow: hidden;
-  	
+  	img {
+      width: 100px;
+      height: auto;
+    }
   	div {
   	  margin: .5em 0 0;
   	  font-size: 120%;
