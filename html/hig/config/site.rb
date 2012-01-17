@@ -4,6 +4,7 @@
 # Default is localhost
 #configuration.preview_server_host = "kratos"
 configuration.preview_server_host = "localhost"
+Haml::Template.options[:format] = :html
  
 # Default is true
 # When false .html & index.html get stripped off generated urls
