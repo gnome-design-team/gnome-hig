@@ -47,7 +47,7 @@ body {
 	display: block;
 	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
 	width: $columns*$column-width+$columns*$gutter-width;
-	margin: 0 $total-width*(-($gutter-width*.5))
+	margin: 0 $total-width*(-($gutter-width*.5));
 	// *width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns))-$correction;
 	// *margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1)-$correction;
 	@include clearfix();
