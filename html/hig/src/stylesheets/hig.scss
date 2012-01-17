@@ -152,8 +152,9 @@ h1 { font-size: 200%;  }
 }
 
 .rimage {
-  @include column(5,16);
+  @include column(5);
   float: right;
+  margin: 0;
 }
 
 .blurb {
