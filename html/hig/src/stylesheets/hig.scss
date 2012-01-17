@@ -206,6 +206,7 @@ h1 { font-size: 200%;  }
     
     img {
       @include column(16);
+      margin-bottom: 1em;
     }
 
     p  {
