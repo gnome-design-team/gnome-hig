@@ -161,6 +161,7 @@ h1 { font-size: 200%;  }
   
   img {
     @include column(6,11);
+    margin-bottom: 1em;
     float: right;
   }
 
