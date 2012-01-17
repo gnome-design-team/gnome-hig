@@ -118,7 +118,11 @@ h1 { font-size: 200%;  }
         }
         &.collapsed {
           &>li {
-            
+            ul {
+              li {
+                padding: 0;
+              }
+            }
           }
         }   
       }
