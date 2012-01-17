@@ -73,6 +73,9 @@ h1 { font-size: 200%;  }
       background: url(../images/favicon.png) no-repeat 0 0;
       color: #222;
       text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
