@@ -4465,11 +4465,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="789.02288"
-     inkscape:cy="692.3678"
+     inkscape:zoom="1"
+     inkscape:cx="614.41452"
+     inkscape:cy="872.92772"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -5824,12 +5824,12 @@
          id="flowPara100538" /><flowPara
          id="flowPara100540" /><flowPara
          id="flowPara100542" /></flowRoot>    <flowRoot
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot100571"
        xml:space="preserve"
        transform="translate(20,320)"><flowRegion
          id="flowRegion100573"><rect
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#3465a4"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
            y="370"
            x="331"
            height="284"
@@ -5844,7 +5844,10 @@
          id="flowPara100830">User Interface Components</flowPara><flowPara
          id="flowPara100832" /></flowRoot>    <g
        transform="translate(675.3125,57.125)"
-       id="g63966">
+       id="g63966"
+       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-hig/html/hig/site/images/minus.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect63956"
