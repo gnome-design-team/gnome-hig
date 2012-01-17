@@ -58,12 +58,18 @@ h1 { font-size: 200%;  }
   width: 960px;
   margin: 0 auto;
   
-  a {
+  &>div {
     background-color: #fff;
     @include column(2);
     @include push(13);
     @inlude pull(1);
     @include border-radius(5px);
+    
+    a {
+      display: block;
+      font-size: 80%
+      padding: 1px;
+    }
   }
 }
 
