@@ -52,7 +52,7 @@ body {
 	// margin: 0 auto;
 	 
 	//$correction: 0;
-	width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
+	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
 	//margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1)-$correction;
 	@include clearfix();
 }
