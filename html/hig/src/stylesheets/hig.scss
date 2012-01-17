@@ -164,7 +164,7 @@ h1 { font-size: 200%;  }
     
     div {
       @include row(6);
-      @push(10);
+      @include push(10);
     }
   }
   .contain {    
