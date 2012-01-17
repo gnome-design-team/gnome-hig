@@ -203,6 +203,7 @@ h1 { font-size: 200%;  }
 
   .columns {
     @include row(16);
+    
     img {
       @include column(16);
     }
