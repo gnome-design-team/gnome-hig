@@ -161,7 +161,7 @@ h1 { font-size: 200%;  }
   }
   
   div {
-    @include column(6);
+    @include column(6,16);
   }
 }
 
