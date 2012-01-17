@@ -68,7 +68,10 @@ h1 { font-size: 200%;  }
     a {
       display: block;
       font-size: 80%;
-      padding: 1px;
+      padding: 2px 2px 2px 20px;
+      background: url(../images/favicon.png) no-repeat 0 0;
+      color: #ccc;
+      text-decoration: none;
     }
   }
 }
