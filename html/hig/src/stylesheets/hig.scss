@@ -168,21 +168,21 @@ h1 { font-size: 200%;  }
     .main {  @include column(16); }
     .sidebar {
       margin: 0;
-    }
-    .logo, .smalllogo { 
-      position: static;
-      display: block;
-      margin: 20px auto;
-      width: 94%;
-    	overflow: hidden;
-    	img {
-        width: 100px;
-        height: auto;
+      .logo, .smalllogo { 
+        position: static;
+        display: block;
+        margin: 20px auto;
+        width: 94%;
+      	overflow: hidden;
+      	img {
+          width: 100px;
+          height: auto;
+        }
+      	div {
+      	  margin: .5em 0 0;
+      	  font-size: 120%;
+      	}
       }
-    	div {
-    	  margin: .5em 0 0;
-    	  font-size: 120%;
-    	}
     }
   }
   .menumobile { @include column(16); }  
