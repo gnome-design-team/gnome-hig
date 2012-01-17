@@ -48,7 +48,7 @@ body {
 	box-sizing: border-box;
 	//width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns));
 	//margin: 0
-	@debug 10em + 12em;
+	@debug $columns * $column-width;
 	width: $columns * $column-width;
 	//margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1);
 	// *width: $total-width*(($gutter-width + gridsystem-width($columns))/gridsystem-width($columns))-$correction;
