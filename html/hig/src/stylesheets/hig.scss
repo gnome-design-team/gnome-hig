@@ -165,6 +165,7 @@ h1 { font-size: 200%;  }
 
   p  {
     @include column(5,11);
+    margin-bottom: 1em;
   }
 }
 
