@@ -64,7 +64,7 @@ h1 { font-size: 200%;  }
     @include push(13);
     @inlude pull(1);
     @include border-radius(5px);
-    @inlude box-shadow(0,4px,2px,#8FB3D9);
+    @inlude box-shadow(0,3px,2px,#8FB3D9);
     a {
       display: block;
       font-size: 80%;
