@@ -164,7 +164,9 @@ h1 { font-size: 200%;  }
   .blurb {
     @include row(16);
   }  
-  .contain {    
+  .contain {
+    width: 97.917%;
+    margin: auto;
     .menu { display: none; }
     .main {  @include column(16); }
   }
