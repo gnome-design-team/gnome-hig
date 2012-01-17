@@ -18,6 +18,10 @@
    sodipodi:docname="page.svg">
   <defs
      id="defs81571">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7787"
+       is_visible="true" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient98928">
@@ -3447,6 +3451,10 @@
          stdDeviation="2.62"
          id="feGaussianBlur6896" />
     </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect63964-0-1-6"
+       effect="spiro" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3456,8 +3464,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="905.12062"
-     inkscape:cy="795.29421"
+     inkscape:cx="767.41754"
+     inkscape:cy="677.32421"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -3902,8 +3910,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="content"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text98080"
@@ -4342,12 +4349,40 @@
          id="tspan7444"
          x="931.76489"
          y="1308.1021">User Interface Components</tspan></text>
+    <g
+       style="display:inline"
+       id="g6898-7"
+       transform="translate(650.3125,-573.875)">
+      <rect
+         ry="1.6875"
+         rx="1.6875"
+         y="645.375"
+         x="-343.8125"
+         height="10"
+         width="10"
+         id="rect6900-1"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -336.03124,650.375 -5.81252,0"
+         id="path6904-0"
+         inkscape:path-effect="#path-effect63964-0-1-6"
+         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m -338.8049,653.28126 0,-5.81252"
+         inkscape:path-effect="#path-effect7787"
+         id="path7785"
+         d="m -338.8049,653.28126 0,-5.81252"
+         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="menu"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
