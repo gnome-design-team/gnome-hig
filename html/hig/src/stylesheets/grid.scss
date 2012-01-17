@@ -53,7 +53,7 @@ body {
 	// *margin: 0 $total-width*((($gutter-width*.5)/gridsystem-width($columns))*-1)-$correction;
 	@include clearfix();
 }
-@mixin column($x,$columns:$columns) {
+@mixin column($x,$lcolumns:$columns) {
 	display: inline;
 	float: left;
 	
