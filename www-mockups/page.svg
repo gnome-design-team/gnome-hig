@@ -3456,8 +3456,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="579.12062"
-     inkscape:cy="729.17514"
+     inkscape:cx="905.12062"
+     inkscape:cy="795.29421"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -3902,7 +3902,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="content"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text98080"
@@ -4074,7 +4075,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6030"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(238,804)"><flowRegion
          id="flowRegion6032"><rect
            id="rect6034"
@@ -4082,7 +4083,7 @@
            height="230"
            x="331"
            y="370"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara7123">Presenting Conten</flowPara><flowPara
          id="flowPara7125">Finding Content</flowPara><flowPara
          id="flowPara7127">Selections and Actions</flowPara><flowPara
@@ -4103,12 +4104,12 @@
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#555753;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara6082">Copyright © 2005‒2012 The GNOME Project</flowPara><flowPara
          id="flowPara6084">Free to share and remix: Creative Commons CC-BY. Optimised for standards. Hosted by Canonical. Powered by WordPress. </flowPara></flowRoot>    <flowRoot
-       transform="translate(239,990)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(239,1030)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot6405"
        xml:space="preserve"><flowRegion
          id="flowRegion6407"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="370"
            x="331"
            height="177"
@@ -4205,18 +4206,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text7301"
-       y="1354.1021"
+       y="1394.1021"
        x="570.76489"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="1354.1021"
+         y="1394.1021"
          x="570.76489"
          id="tspan7303"
          sodipodi:role="line">Presenting Content</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7305"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(418,804)"><flowRegion
          id="flowRegion7307"><rect
            id="rect7309"
@@ -4224,7 +4225,7 @@
            height="177"
            x="331"
            y="370"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara7317">Search</flowPara><flowPara
          id="flowPara7332">Filter Buttons </flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -4239,11 +4240,11 @@
          y="1168.1021">Finding Content</tspan></text>
     <flowRoot
        transform="translate(418,904)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7334"
        xml:space="preserve"><flowRegion
          id="flowRegion7336"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="370"
            x="331"
            height="177"
@@ -4267,7 +4268,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7362"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(418,1064)"><flowRegion
          id="flowRegion7364"><rect
            id="rect7366"
@@ -4275,7 +4276,7 @@
            height="68"
            x="331"
            y="370"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara7376">Back Button</flowPara><flowPara
          id="flowPara7396">Home Button </flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -4290,11 +4291,11 @@
          y="1428.1021">Navigation</tspan></text>
     <flowRoot
        transform="translate(600,804)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot7398"
        xml:space="preserve"><flowRegion
          id="flowRegion7400"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="370"
            x="331"
            height="177"
@@ -4317,7 +4318,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7428"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(600,944)"><flowRegion
          id="flowRegion7430"><rect
            id="rect7432"
@@ -4325,7 +4326,7 @@
            height="177"
            x="331"
            y="370"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara7440">Lists</flowPara><flowPara
          id="flowPara7457">Menus</flowPara><flowPara
          id="flowPara7461">Switches</flowPara><flowPara
@@ -4350,277 +4351,19 @@
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
-       inkscape:original="M 288 17 L 288 485 C 288 493.31 294.69 500 303 500 L 861 500 C 869.31 500 876 493.31 876 485 L 876 17 L 288 17 z "
+       inkscape:original="M 288 17 L 288 665 C 288 673.31 294.69 680 303 680 L 1141 680 C 1149.31 680 1156 673.31 1156 665 L 1156 155 L 644 155 L 644 17 L 288 17 z "
        xlink:href="#rect6791"
        style="opacity:0.5;color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29336384px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter6894);enable-background:accumulate"
        id="path6869"
        inkscape:href="#rect6791"
-       d="m 288,17 0,728 c -0.23565,8.30666 6.69,15 15,15 l 778,0 c 8.31,0 15,-6.69 15,-15 l 0,-728 -808,0 z"
+       d="m 288,17 0,648 c 0,8.31 6.69,15 15,15 l 838,0 c 8.31,0 15,-6.69 15,-15 l 0,-510 -512,0 0,-138 -356,0 z"
        transform="translate(0,4)" />
     <path
        style="color:#000000;fill:#f0f2ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m 876,17 0,468 c 0,8.31 -6.69,15 -15,15 l -558,0 c -8.31,0 -15,-6.69 -15,-15 l 0,-468 z"
+       d="m 644,17 0,138 512,0 0,510 c 0,8.31 -6.69,15 -15,15 l -838,0 c -8.31,0 -15,-6.69 -15,-15 l 0,-648 z"
        id="rect6791"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssscc" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text100502"
-       y="209.10199"
-       x="330.76489"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       xml:space="preserve"><tspan
-         y="209.10199"
-         x="330.76489"
-         id="tspan100504"
-         sodipodi:role="line">Design Guidelines</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="590.76489"
-       y="169.10199"
-       id="text100506"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan100508"
-         x="590.76489"
-         y="169.10199">Design Patterns</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot100510"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(21,-142.99999)"><flowRegion
-         id="flowRegion100512"><rect
-           id="rect100514"
-           width="279"
-           height="284"
-           x="331"
-           y="370"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
-         id="flowPara100524">GNOME 3 Design Principles</flowPara><flowPara
-         id="flowPara100557">Design Strategies</flowPara><flowPara
-         id="flowPara100559">System Shell</flowPara><flowPara
-         id="flowPara100561">Visual Layout</flowPara><flowPara
-         id="flowPara100563">Writing Style</flowPara><flowPara
-         id="flowPara100565">Color</flowPara><flowPara
-         id="flowPara100567">Keyboard Input</flowPara><flowPara
-         id="flowPara100569">Pointer and Touch Input</flowPara><flowPara
-         id="flowPara100526" /><flowPara
-         id="flowPara100528" /><flowPara
-         id="flowPara100530" /><flowPara
-         id="flowPara100532" /><flowPara
-         id="flowPara100534" /><flowPara
-         id="flowPara100536" /><flowPara
-         id="flowPara100538" /><flowPara
-         id="flowPara100540" /><flowPara
-         id="flowPara100542" /></flowRoot>    <flowRoot
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       id="flowRoot100571"
-       xml:space="preserve"
-       transform="translate(281,-179.99999)"><flowRegion
-         id="flowRegion100573"><rect
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           y="370"
-           x="331"
-           height="284"
-           width="279"
-           id="rect100575" /></flowRegion><flowPara
-         id="flowPara100609">Application Basics</flowPara><flowPara
-         id="flowPara100763">Presenting Conten</flowPara><flowPara
-         id="flowPara100765">Finding Content</flowPara><flowPara
-         id="flowPara100767">Selections and Actions</flowPara><flowPara
-         id="flowPara100769">Navigation</flowPara><flowPara
-         id="flowPara100828">Other Window Types</flowPara><flowPara
-         id="flowPara100830">User Interface Components</flowPara><flowPara
-         id="flowPara100832" /></flowRoot>    <g
-       transform="translate(936.3125,-442.87499)"
-       id="g63966">
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect63956"
-         width="10"
-         height="10"
-         x="-343.8125"
-         y="645.375"
-         rx="1.6875"
-         ry="1.6875" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -338.8125,647.625 0,5.8125"
-         id="path63958"
-         inkscape:path-effect="#path-effect63960-2-9"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:path-effect="#path-effect63964-0-1"
-         id="path63962"
-         d="m -336.03124,650.375 -5.81252,0"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g100804"
-       transform="translate(936.3125,-414.87499)">
-      <rect
-         ry="1.6875"
-         rx="1.6875"
-         y="645.375"
-         x="-343.8125"
-         height="10"
-         width="10"
-         id="rect100806"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:path-effect="#path-effect63960-2-9"
-         id="path100808"
-         d="m -338.8125,647.625 0,5.8125"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -336.03124,650.375 -5.81252,0"
-         id="path100810"
-         inkscape:path-effect="#path-effect63964-0-1"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(936.3125,-386.87499)"
-       id="g100812">
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect100814"
-         width="10"
-         height="10"
-         x="-343.8125"
-         y="645.375"
-         rx="1.6875"
-         ry="1.6875" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -338.8125,647.625 0,5.8125"
-         id="path100816"
-         inkscape:path-effect="#path-effect63960-2-9"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:path-effect="#path-effect63964-0-1"
-         id="path100818"
-         d="m -336.03124,650.375 -5.81252,0"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g100820"
-       transform="translate(936.3125,-358.87499)">
-      <rect
-         ry="1.6875"
-         rx="1.6875"
-         y="645.375"
-         x="-343.8125"
-         height="10"
-         width="10"
-         id="rect100822"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:path-effect="#path-effect63960-2-9"
-         id="path100824"
-         d="m -338.8125,647.625 0,5.8125"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -336.03124,650.375 -5.81252,0"
-         id="path100826"
-         inkscape:path-effect="#path-effect63964-0-1"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(936.3125,-330.87499)"
-       id="g100834">
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect100836"
-         width="10"
-         height="10"
-         x="-343.8125"
-         y="645.375"
-         rx="1.6875"
-         ry="1.6875" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -338.8125,647.625 0,5.8125"
-         id="path100838"
-         inkscape:path-effect="#path-effect63960-2-9"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:path-effect="#path-effect63964-0-1"
-         id="path100840"
-         d="m -336.03124,650.375 -5.81252,0"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g100842"
-       transform="translate(936.3125,-302.87499)">
-      <rect
-         ry="1.6875"
-         rx="1.6875"
-         y="645.375"
-         x="-343.8125"
-         height="10"
-         width="10"
-         id="rect100844"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:path-effect="#path-effect63960-2-9"
-         id="path100846"
-         d="m -338.8125,647.625 0,5.8125"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -336.03124,650.375 -5.81252,0"
-         id="path100848"
-         inkscape:path-effect="#path-effect63964-0-1"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(936.3125,-274.87499)"
-       id="g100850">
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#bec0bc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect100852"
-         width="10"
-         height="10"
-         x="-343.8125"
-         y="645.375"
-         rx="1.6875"
-         ry="1.6875" />
-      <path
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -338.8125,647.625 0,5.8125"
-         id="path100854"
-         inkscape:path-effect="#path-effect63960-2-9"
-         inkscape:original-d="m -338.8125,647.625 0,5.8125"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m -336.03124,650.375 -5.81252,0"
-         inkscape:path-effect="#path-effect63964-0-1"
-         id="path100856"
-         d="m -336.03124,650.375 -5.81252,0"
-         style="fill:none;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+       sodipodi:nodetypes="cccsssscc" />
     <text
        sodipodi:linespacing="125%"
        id="text98080-5"
@@ -4746,6 +4489,239 @@
          id="tspan6908"
          x="330.76489"
          y="169.10199">Home</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="329.76489"
+       y="204.10205"
+       id="text5982-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5984-7"
+         x="329.76489"
+         y="204.10205">Design Guidelines</tspan></text>
+    <flowRoot
+       transform="translate(-1.5258763e-8,-140)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot5986-2"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5988-7"><rect
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="370"
+           x="331"
+           height="270"
+           width="219"
+           id="rect5990-1" /></flowRegion><flowPara
+         id="flowPara6070-4">GNOME 3 Design Principles</flowPara><flowPara
+         id="flowPara5994-8">Design Strategies</flowPara><flowPara
+         id="flowPara5996-4">System Shell</flowPara><flowPara
+         id="flowPara5998-3">Visual Layout</flowPara><flowPara
+         id="flowPara6000-5">Writing Style</flowPara><flowPara
+         id="flowPara6002-2">Color</flowPara><flowPara
+         id="flowPara6004-9">Keyboard Input</flowPara><flowPara
+         id="flowPara6006-0">Pointer and Touch Input</flowPara><flowPara
+         id="flowPara6008-4" /><flowPara
+         id="flowPara6010-3" /><flowPara
+         id="flowPara6012-9" /><flowPara
+         id="flowPara6014-5" /><flowPara
+         id="flowPara6016-3" /><flowPara
+         id="flowPara6018-9" /><flowPara
+         id="flowPara6020-8" /><flowPara
+         id="flowPara6022-3" /><flowPara
+         id="flowPara6024-7" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text6026-3"
+       y="204.10205"
+       x="567.76489"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"><tspan
+         y="204.10205"
+         x="567.76489"
+         id="tspan6028-8"
+         sodipodi:role="line">Design Patterns</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6030-4"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(238,-120)"><flowRegion
+         id="flowRegion6032-0"><rect
+           id="rect6034-1"
+           width="159"
+           height="230"
+           x="331"
+           y="370"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara7123-0">Presenting Conten</flowPara><flowPara
+         id="flowPara7125-2">Finding Content</flowPara><flowPara
+         id="flowPara7127-1">Selections and Actions</flowPara><flowPara
+         id="flowPara7129-5">Navigation</flowPara><flowPara
+         id="flowPara7131-4">Other Window Types</flowPara><flowPara
+         id="flowPara7133-0">User Interface Components</flowPara><flowPara
+         id="flowPara7135-9" /></flowRoot>    <flowRoot
+       transform="translate(239,106)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot6405-4"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6407-3"><rect
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="370"
+           x="331"
+           height="177"
+           width="160"
+           id="rect6409-3" /></flowRegion><flowPara
+         id="flowPara6443-2">Content View</flowPara><flowPara
+         id="flowPara7289-7">Full Screen</flowPara><flowPara
+         id="flowPara7291-9">Zooming</flowPara><flowPara
+         id="flowPara7293-7">Panning </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="567.76489"
+       y="244.10205"
+       id="text7297-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7299-8"
+         x="567.76489"
+         y="244.10205">Application Basics</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7301-9"
+       y="470.10211"
+       x="570.76489"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"><tspan
+         y="470.10211"
+         x="570.76489"
+         id="tspan7303-5"
+         sodipodi:role="line">Presenting Content</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7305-1"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(418,-120)"><flowRegion
+         id="flowRegion7307-0"><rect
+           id="rect7309-1"
+           width="160"
+           height="177"
+           x="331"
+           y="370"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara7317-6">Search</flowPara><flowPara
+         id="flowPara7332-0">Filter Buttons </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="749.76489"
+       y="244.10205"
+       id="text7319-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7321-9"
+         x="749.76489"
+         y="244.10205">Finding Content</tspan></text>
+    <flowRoot
+       transform="translate(418,-20)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot7334-9"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7336-4"><rect
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="370"
+           x="331"
+           height="177"
+           width="160"
+           id="rect7338-9" /></flowRegion><flowPara
+         id="flowPara7342-4">Checkmark Selector</flowPara><flowPara
+         id="flowPara7350-4">Bottom Toolbar</flowPara><flowPara
+         id="flowPara7352-0">Context Menus</flowPara><flowPara
+         id="flowPara7356-6">Undo</flowPara><flowPara
+         id="flowPara7358-9">Inline toolbars</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text7344-3"
+       y="344.10205"
+       x="749.76489"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"><tspan
+         y="344.10205"
+         x="749.76489"
+         id="tspan7346-3"
+         sodipodi:role="line">Selections &amp; Actions</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7362-3"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(418,140)"><flowRegion
+         id="flowRegion7364-5"><rect
+           id="rect7366-2"
+           width="160"
+           height="68"
+           x="331"
+           y="370"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara7376-7">Back Button</flowPara><flowPara
+         id="flowPara7396-9">Home Button </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="749.76489"
+       y="504.10205"
+       id="text7378-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7380-1"
+         x="749.76489"
+         y="504.10205">Navigation</tspan></text>
+    <flowRoot
+       transform="translate(600,-120)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot7398-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7400-6"><rect
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="370"
+           x="331"
+           height="177"
+           width="160"
+           id="rect7402-8" /></flowRegion><flowPara
+         id="flowPara7414-0">Dialog Windows</flowPara><flowPara
+         id="flowPara7418-4">Utility Windows</flowPara><flowPara
+         id="flowPara7420-9">   Preference Windows</flowPara><flowPara
+         id="flowPara7422-5">   Property Windows </flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text7408-7"
+       y="244.10205"
+       x="931.76489"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"><tspan
+         y="244.10205"
+         x="931.76489"
+         id="tspan7410-0"
+         sodipodi:role="line">Other Window Types</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7428-8"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(600,20)"><flowRegion
+         id="flowRegion7430-3"><rect
+           id="rect7432-0"
+           width="160"
+           height="177"
+           x="331"
+           y="370"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara7440-7">Lists</flowPara><flowPara
+         id="flowPara7457-2">Menus</flowPara><flowPara
+         id="flowPara7461-1">Switches</flowPara><flowPara
+         id="flowPara7465-2">Text Entry Fields</flowPara><flowPara
+         id="flowPara7469-4">Spin Boxes</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="931.76489"
+       y="384.10211"
+       id="text7442-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7444-8"
+         x="931.76489"
+         y="384.10211">User Interface Components</tspan></text>
   </g>
   <g
      inkscape:label="grid"
