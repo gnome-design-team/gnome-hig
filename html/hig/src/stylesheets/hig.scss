@@ -119,6 +119,7 @@ h1 { font-size: 200%;  }
         &.collapsed {
           &>li {
             ul {
+              margin-top: 1em;
               li {
                 padding: 0;
               }
