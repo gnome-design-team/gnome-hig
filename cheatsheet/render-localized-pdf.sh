@@ -7,7 +7,7 @@ do
 	xml2po -a -p $file src/cheatsheet-02.svg > out/$lang/cheatsheet-02.svg
 	xml2po -a -p $file src/cheatsheet-03.svg > out/$lang/cheatsheet-03.svg
 	#create eps
-	#inkscape -z -A out/$lang/gettingstarted.pdf out/$lang/gettingstarted.svg
+	inkscape -z -A out/$lang/gettingstarted.pdf out/$lang/gettingstarted.svg
 	#remove svgs
 	rm ./out/$lang/*svg
 done
