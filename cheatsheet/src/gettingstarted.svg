@@ -2072,8 +2072,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="387.41726"
-     inkscape:cy="351.81136"
+     inkscape:cx="310.17055"
+     inkscape:cy="612.82238"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2085,8 +2085,8 @@
      inkscape:snap-center="true"
      inkscape:window-width="1303"
      inkscape:window-height="1166"
-     inkscape:window-x="2567"
-     inkscape:window-y="215"
+     inkscape:window-x="2883"
+     inkscape:window-y="220"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
@@ -2160,6 +2160,13 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10839"
+       width="765"
+       height="971"
+       x="-12"
+       y="95.362183" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:block;overflow:visible;enable-background:new"
        id="rect3760"
