@@ -31,17 +31,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="443.02355"
-     inkscape:cy="574.60807"
+     inkscape:cx="292.02355"
+     inkscape:cy="508.60807"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer17"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1448"
      inkscape:window-height="1166"
-     inkscape:window-x="2042"
-     inkscape:window-y="80"
+     inkscape:window-x="2233"
+     inkscape:window-y="87"
      inkscape:window-maximized="0"
      units="cm"
      inkscape:snap-bbox="true"
@@ -905,6 +905,13 @@
            id="path10278" />
       </g>
     </g>
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10839"
+       width="765"
+       height="971"
+       x="-12"
+       y="95.362183" />
   </g>
   <g
      inkscape:groupmode="layer"
