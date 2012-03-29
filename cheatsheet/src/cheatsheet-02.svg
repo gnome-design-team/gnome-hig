@@ -57,7 +57,7 @@
      inkscape:cx="344.6099"
      inkscape:cy="528.37585"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer16"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -980,19 +980,12 @@
          transform="translate(-62,-381)"
          id="g4508" />
     </g>
-    <rect
-       id="rect4049"
-       width="776"
-       height="26"
-       x="-16"
-       y="529.95947"
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
        sodipodi:linespacing="125%"
        id="text4051"
        y="546.79248"
        x="70.87854"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
        xml:space="preserve"><tspan
          y="546.79248"
          x="70.87854"
@@ -1020,16 +1013,9 @@
          x="70.87854"
          y="714.49573"
          id="tspan4145">SEND APPS AND WINDOWS TO SPECIFIC WORKSPACE</tspan></text>
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       y="855.95941"
-       x="-7"
-       height="26"
-       width="758"
-       id="rect5343" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
        x="70.87854"
        y="872.79242"
        id="text5345"
@@ -2089,19 +2075,9 @@
          y="930.23016"
          x="522.51752"
          sodipodi:role="line">Press the power button</tspan></text>
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       y="114.82727"
-       x="-22.952759"
-       height="26"
-       width="790"
-       id="rect4147-9"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
        x="72.791016"
        y="131.66028"
        id="text4149-9"
