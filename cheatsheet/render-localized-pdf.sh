@@ -11,7 +11,9 @@ do
 	inkscape -z -A out/$lang/cheatsheet-01.pdf out/$lang/cheatsheet-01.svg
 	inkscape -z -A out/$lang/cheatsheet-02.pdf out/$lang/cheatsheet-02.svg
 	inkscape -z -A out/$lang/cheatsheet-03.pdf out/$lang/cheatsheet-03.svg
-	#remove svgs
+	pdfunite out/$lang/cheatsheet-*pdf out/$lang/cheatcheet.pdf
+	#remove crap
 	rm ./out/$lang/*svg
+	rm ./out/$lang/cheatsheet-*
 done
 
