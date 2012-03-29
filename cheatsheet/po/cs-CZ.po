@@ -40,22 +40,22 @@ msgstr ""
 
 #: src/gettingstarted.svg:4392(tspan)
 #, no-wrap
-msgid "GETTING STARTED"
+msgid "ZAČÍNÁME"
 msgstr ""
 
 #: src/gettingstarted.svg:4467(tspan)
 #, no-wrap
-msgid "or"
+msgid "nebo"
 msgstr ""
 
 #: src/gettingstarted.svg:4605(flowPara)
 #, no-wrap
-msgid "Trow the pointer in the top left corner"
+msgid "Rychle posuňtě kurzor do levého honrního rohu"
 msgstr ""
 
 #: src/gettingstarted.svg:4617(flowPara)
 #, no-wrap
-msgid "Click on activities"
+msgid "Klepněte na Aktivity"
 msgstr ""
 
 #: src/gettingstarted.svg:4629(flowPara)
