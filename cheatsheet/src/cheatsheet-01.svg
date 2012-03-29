@@ -61,8 +61,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1543"
      inkscape:window-height="1254"
-     inkscape:window-x="2596"
-     inkscape:window-y="63"
+     inkscape:window-x="2576"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      units="cm"
      inkscape:snap-bbox="true"
@@ -920,6 +920,13 @@
            id="path10278" />
       </g>
     </g>
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10839"
+       width="765"
+       height="971"
+       x="-12"
+       y="95.362183" />
   </g>
   <g
      inkscape:label="page 1"
@@ -2073,7 +2080,7 @@
          x="276.31659"
          y="941.21375">2</tspan></text>
     <rect
-       style="fill:#ebebeb;fill-opacity:1;stroke:none"
+       style="fill:#eeeeec;fill-opacity:1;stroke:none;color:#000000;fill-rule:nonzero;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3440"
        width="444.29965"
        height="41.421543"
@@ -2821,7 +2828,7 @@
          id="tspan5210"
          sodipodi:role="line"
          x="61"
-         y="186.24402">Press the windows key (it's as simple as that)</tspan></text>
+         y="186.24402">Press the logo key (it's as simple as that)</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.34383714;stroke-miterlimit:4;stroke-opacity:1"
        d="m 574.382,448.90029 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
@@ -3282,7 +3289,7 @@
        x="535.84741"
        y="384.65891" />
     <rect
-       style="color:#000000;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4767"
        width="47"
        height="16"
