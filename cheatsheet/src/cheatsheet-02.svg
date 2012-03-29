@@ -25,6 +25,18 @@
      id="defs4">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect8913"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8909"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8905"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect3952"
        is_visible="true" />
     <inkscape:path-effect
@@ -54,8 +66,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="344.6099"
-     inkscape:cy="528.37585"
+     inkscape:cx="447.87831"
+     inkscape:cy="389.28974"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -2526,5 +2538,26 @@
          x="62"
          y="1047.7987"
          id="tspan16195">* Available since 3.2</tspan></text>
+    <path
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -12,131.86218 770,0"
+       id="path8903"
+       inkscape:path-effect="#path-effect8905"
+       inkscape:original-d="m -12,131.86218 770,0"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m -12,546.86218 770,0"
+       inkscape:path-effect="#path-effect8909"
+       id="path8907"
+       d="m -12,546.86218 770,0"
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -12,872.86218 770,0"
+       id="path8911"
+       inkscape:path-effect="#path-effect8913"
+       inkscape:original-d="m -12,872.86218 770,0"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
