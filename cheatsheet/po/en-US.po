@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-03-29 20:09+0200\n"
+"POT-Creation-Date: 2012-03-29 20:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,20 +65,15 @@ msgstr ""
 
 #: src/gettingstarted.svg:4657(flowPara)
 #, no-wrap
-msgid "When in overview, type the few initial letters"
+msgid "When in overview, type the few initial letters of the application name"
 msgstr ""
 
-#: src/gettingstarted.svg:4658(flowPara)
-#, no-wrap
-msgid "of the application name"
-msgstr ""
-
-#: src/gettingstarted.svg:4670(flowPara)
+#: src/gettingstarted.svg:4669(flowPara)
 #, no-wrap
 msgid "Click a launcher on the dash"
 msgstr ""
 
-#: src/gettingstarted.svg:4682(flowPara)
+#: src/gettingstarted.svg:4681(flowPara)
 #, no-wrap
 msgid "Drag a launcher from the  dash and drop out of it"
 msgstr ""
