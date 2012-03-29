@@ -66,8 +66,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="447.87831"
-     inkscape:cy="389.28974"
+     inkscape:cx="347.52869"
+     inkscape:cy="577.74713"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -2538,26 +2538,26 @@
          x="62"
          y="1047.7987"
          id="tspan16195">* Available since 3.2</tspan></text>
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -12,131.86218 770,0"
-       id="path8903"
-       inkscape:path-effect="#path-effect8905"
-       inkscape:original-d="m -12,131.86218 770,0"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:original-d="m -12,546.86218 770,0"
-       inkscape:path-effect="#path-effect8909"
-       id="path8907"
-       d="m -12,546.86218 770,0"
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -12,872.86218 770,0"
-       id="path8911"
-       inkscape:path-effect="#path-effect8913"
-       inkscape:original-d="m -12,872.86218 770,0"
-       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8915"
+       width="21"
+       height="21"
+       x="41"
+       y="119.36218" />
+    <rect
+       y="535.36218"
+       x="41"
+       height="21"
+       width="21"
+       id="rect9685"
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9687"
+       width="21"
+       height="21"
+       x="41"
+       y="861.36218" />
   </g>
 </svg>
