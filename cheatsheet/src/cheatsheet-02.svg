@@ -31,17 +31,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="383.02355"
-     inkscape:cy="513.60807"
+     inkscape:cx="443.02355"
+     inkscape:cy="574.60807"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1448"
-     inkscape:window-height="1214"
-     inkscape:window-x="1687"
-     inkscape:window-y="153"
+     inkscape:window-height="1166"
+     inkscape:window-x="2042"
+     inkscape:window-y="80"
      inkscape:window-maximized="0"
      units="cm"
      inkscape:snap-bbox="true"
@@ -98,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -913,7 +913,7 @@
      style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(2.197126,0,0,2.197126,140.95181,625.56026)"
+       transform="matrix(2.197126,0,0,2.197126,140.95181,665.56026)"
        id="g4490">
       <g
          inkscape:label="status"
@@ -966,66 +966,44 @@
     <text
        sodipodi:linespacing="125%"
        id="text4051"
-       y="546.79248"
+       y="586.79248"
        x="60.87854"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="546.79248"
+         y="586.79248"
          x="60.87854"
          id="tspan4053"
          sodipodi:role="line">WORKSPACES</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4063"
-       y="582.49573"
+       y="622.49573"
        x="60.87854"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="582.49573"
+         y="622.49573"
          x="60.87854"
          sodipodi:role="line"
          id="tspan4118">Start an App in a New Workspace</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="60.87854"
-       y="714.49573"
+       y="754.49573"
        id="text4079"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="60.87854"
-         y="714.49573"
+         y="754.49573"
          id="tspan4145">Send Apps and Windows to a Specific Workspace</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="60.87854"
-       y="872.79242"
-       id="text5345"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5347"
-         x="60.87854"
-         y="872.79242">ENDING YOUR SESSION</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
-       x="60.87854"
-       y="908.49567"
-       id="text5535"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan5539"
-         sodipodi:role="line"
-         x="60.87854"
-         y="908.49567">Suspend</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4482"
-       y="672.47729"
+       y="712.47729"
        x="136.99146"
        style="font-size:9.39663696px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
-         y="672.47729"
+         y="712.47729"
          x="136.99146"
          id="tspan4484"
          sodipodi:role="line">Calculator</tspan></text>
@@ -1035,18 +1013,18 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAWCAYAAADwza0nAAAABHNCSVQICAgIfAhkiAAAAjpJREFU OI2NlL1rU1EYh59zbxpyb5KrkRIwf0ShuDoUPyY/wFEXHSQ4FUenUAcXV8ngHDrYwalOBSlksRW0 i13aOji0lDak0Ibcj9zzc/DeS62V9oV3e5/zew885xhJGGMcQJLEJcsxxrjAG8DPDrh0eYCmpqbe A9cARxIXNUAVULPZjFzX7QKNy8AFuL29rUajETuO8xa4ehFcgNZabW5uKgiC2HGc18AVwFwIxnEs SdrY2FCtVouBV0DwP7gAx+OxrLWSpLW1Nfm+HwMvgfp5cAEeHx8XqZLU7/fl+34EvABqZ+ECPDo6 +itVklZWVuR5XgQ8y+bMP+Dh4aFOTk6UJIlO1/LysjzPC4HHgJ/DBbi/v39uqiQtLS3J87wx8CgT xhTg7u6uBoPBuamS1Ov1rOd5I+AeUCnl3k0mE1zXLdpxHGZmZuzOzk4hfhRFvuM4PWvt/ULqNE1J 05S9vT0WFxex1tJut43rur/CMJwPw/CppCfW2ufAuFh1a2tL6+vrarVacbVaTQ4ODjQajRQEQQy0 geuZTUF2zz/g6uqqms1mXC6XP/m+/63T6aRJkmhhYSGtVqtfgNZpfwtweno6LpVKH4E7wMNarRYN BgMNh8PcogdAJQfzO2o4HH6YTCbvgO/AZ+Brt9u19Xqd2dlZC9zMV8zLAzrADbKHnPWtSqUSzs3N hb7vj4B5oJEnGsDNjJgAkSQLYIypALeBu8APoA/8lBST62OMMWc/KmOMAcrZoQAjIMnnfgNDbfXO pNFf+AAAAABJRU5ErkJggg== "
        id="image4486"
        x="169.58215"
-       y="651.92578" />
+       y="691.92578" />
     <text
        sodipodi:linespacing="110%"
        id="text4594"
-       y="606.23022"
+       y="646.23022"
        x="83.124634"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="606.23022"
+         y="646.23022"
          x="83.124634"
          sodipodi:role="line"
          id="tspan4596">Place the cursor over the app</tspan></text>
@@ -1055,20 +1033,20 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        x="60.87854"
-       y="612.74866"
+       y="652.74866"
        id="text4598"
        sodipodi:linespacing="125%"><tspan
          id="tspan4600"
          sodipodi:role="line"
          x="60.87854"
-         y="612.74866">1</tspan></text>
+         y="652.74866">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="297.59552"
-       y="605.69702"
+       y="645.69702"
        id="text4602"
        sodipodi:linespacing="110%"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
@@ -1076,25 +1054,25 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="297.59552"
-         y="605.69702"
+         y="645.69702"
          id="tspan4604">Click with the middle button</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4606"
-       y="612.74866"
+       y="652.74866"
        x="275.26935"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="612.74866"
+         y="652.74866"
          x="275.26935"
          sodipodi:role="line"
          id="tspan4608">2</tspan></text>
     <g
        id="g4438"
-       transform="translate(-10.047225,-837.86643)">
+       transform="translate(-10.047225,-797.86643)">
       <path
          sodipodi:type="arc"
          style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:3.78155518;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1166,12 +1144,12 @@
        transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
        sodipodi:linespacing="125%"
        id="text4450"
-       y="708.54779"
-       x="188.08853"
+       y="747.18488"
+       x="177.73578"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="708.54779"
-         x="188.08853"
+         y="747.18488"
+         x="177.73578"
          id="tspan4452"
          sodipodi:role="line">CLICK!</tspan></text>
     <text
@@ -1591,24 +1569,24 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="83.124634"
-       y="736.23022"
+       y="776.23022"
        id="text3856"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
          x="83.124634"
-         y="736.23022"
+         y="776.23022"
          id="tspan3872">Open the overview</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3860"
-       y="742.74866"
+       y="782.74866"
        x="60.87854"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="742.74866"
+         y="782.74866"
          x="60.87854"
          sodipodi:role="line"
          id="tspan3862">1</tspan></text>
@@ -1618,15 +1596,15 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        sodipodi:linespacing="110%"
        id="text3864"
-       y="735.69702"
+       y="775.69702"
        x="297.59552"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
          id="tspan3866"
-         y="735.69702"
+         y="775.69702"
          x="297.59552"
          sodipodi:role="line">Click and hold on the thing </tspan><tspan
-         y="748.89703"
+         y="788.89703"
          x="297.59552"
          sodipodi:role="line"
          id="tspan3918">you want to move</tspan></text>
@@ -1635,17 +1613,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        x="275.26935"
-       y="742.74866"
+       y="782.74866"
        id="text3868"
        sodipodi:linespacing="125%"><tspan
          id="tspan3870"
          sodipodi:role="line"
          x="275.26935"
-         y="742.74866">2</tspan></text>
+         y="782.74866">2</tspan></text>
     <g
-       transform="matrix(0.83333306,0,0,0.83333306,79.202815,167.13676)"
+       transform="matrix(0.83333306,0,0,0.83333306,79.202815,207.13676)"
        id="g3898">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1665,7 +1643,7 @@
     </g>
     <g
        id="g3904"
-       transform="translate(-10.047225,404.13356)">
+       transform="translate(-10.047225,444.13356)">
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 153.95976,371.367 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
@@ -1697,14 +1675,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text3920"
-       y="738.82385"
+       y="778.82385"
        x="489.98041"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="738.82385"
+         y="778.82385"
          x="489.98041"
          sodipodi:role="line"
          id="tspan3922">3</tspan></text>
@@ -1712,7 +1690,7 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="512.51752"
-       y="731.77893"
+       y="771.77893"
        id="text3924"
        sodipodi:linespacing="110%"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
@@ -1720,20 +1698,20 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="512.51752"
-         y="731.77893"
+         y="771.77893"
          id="tspan3926">Drag to the workspace</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3987"
-       d="m 630.52475,737.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,777.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 630.52475,739.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,779.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        id="path3989"
        inkscape:connector-curvature="0" />
     <rect
-       y="734.58551"
+       y="774.58551"
        x="-640.28052"
        height="14.203319"
        width="15.25"
@@ -1742,7 +1720,7 @@
        transform="scale(-1,1)" />
     <g
        id="g4971"
-       transform="translate(-5.4228754,-817.86643)">
+       transform="translate(-5.4228754,-777.86643)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(2.197126,0,0,2.197126,362.99903,1583.4267)"
@@ -1816,7 +1794,7 @@
     </g>
     <g
        id="g4933"
-       transform="translate(-2.1234954,-817.86643)">
+       transform="translate(-2.1234954,-777.86643)">
       <g
          id="g4913"
          transform="matrix(1.6033403,0,0,1.6033403,524.36326,1582.0248)"
@@ -2016,48 +1994,6 @@
          id="rect4141"
          style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <text
-       sodipodi:linespacing="110%"
-       id="text4986"
-       y="930.23016"
-       x="83.124634"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       xml:space="preserve"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         id="tspan4988"
-         y="930.23016"
-         x="83.124634"
-         sodipodi:role="line">Close the lid</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="297.59552"
-       y="930.23016"
-       id="text4994"
-       sodipodi:linespacing="110%"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         id="tspan4998"
-         sodipodi:role="line"
-         x="297.59552"
-         y="930.23016">Use the user menu</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       sodipodi:linespacing="110%"
-       id="text5026"
-       y="930.23016"
-       x="512.51752"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       xml:space="preserve"><tspan
-         id="tspan5028"
-         y="930.23016"
-         x="512.51752"
-         sodipodi:role="line">Press the power button</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
