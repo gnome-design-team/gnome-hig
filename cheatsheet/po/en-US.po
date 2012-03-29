@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-03-29 20:05+0200\n"
+"POT-Creation-Date: 2012-03-29 20:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9,81 +9,76 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/gettingstarted.svg:2136(format)
+#: src/gettingstarted.svg:2152(format)
 msgid "image/svg+xml"
 msgstr ""
 
-#: src/gettingstarted.svg:2180(tspan) src/gettingstarted.svg:2331(tspan)
+#: src/gettingstarted.svg:2196(tspan) src/gettingstarted.svg:2347(tspan)
 #, no-wrap
 msgid "Activities"
 msgstr ""
 
-#: src/gettingstarted.svg:2547(tspan)
+#: src/gettingstarted.svg:2563(tspan)
 #, no-wrap
 msgid "Entering Overview"
 msgstr ""
 
-#: src/gettingstarted.svg:2559(tspan)
+#: src/gettingstarted.svg:2575(tspan)
 #, no-wrap
 msgid "Starting Applications"
 msgstr ""
 
-#: src/gettingstarted.svg:4228(tspan)
+#: src/gettingstarted.svg:4244(tspan)
 #, no-wrap
 msgid "Press Enter"
 msgstr ""
 
-#: src/gettingstarted.svg:4380(flowPara)
+#: src/gettingstarted.svg:4396(flowPara)
 #, no-wrap
 msgid "3"
 msgstr ""
 
-#: src/gettingstarted.svg:4392(tspan)
+#: src/gettingstarted.svg:4408(tspan)
 #, no-wrap
 msgid "GETTING STARTED"
 msgstr ""
 
-#: src/gettingstarted.svg:4467(tspan)
+#: src/gettingstarted.svg:4540(tspan)
 #, no-wrap
 msgid "or"
 msgstr ""
 
-#: src/gettingstarted.svg:4605(flowPara)
+#: src/gettingstarted.svg:4621(flowPara)
 #, no-wrap
 msgid "Trow the pointer in the top left corner"
 msgstr ""
 
-#: src/gettingstarted.svg:4617(flowPara)
+#: src/gettingstarted.svg:4633(flowPara)
 #, no-wrap
 msgid "Click on activities"
 msgstr ""
 
-#: src/gettingstarted.svg:4629(flowPara)
+#: src/gettingstarted.svg:4645(flowPara)
 #, no-wrap
-msgid "Press the logo key on the "
+msgid "Press the logo key on the  keyboard"
 msgstr ""
 
-#: src/gettingstarted.svg:4630(flowPara)
-#, no-wrap
-msgid "keyboard"
-msgstr ""
-
-#: src/gettingstarted.svg:4642(flowPara)
+#: src/gettingstarted.svg:4657(flowPara)
 #, no-wrap
 msgid "When in overview, type the few initial letters"
 msgstr ""
 
-#: src/gettingstarted.svg:4643(flowPara)
+#: src/gettingstarted.svg:4658(flowPara)
 #, no-wrap
 msgid "of the application name"
 msgstr ""
 
-#: src/gettingstarted.svg:4655(flowPara)
+#: src/gettingstarted.svg:4670(flowPara)
 #, no-wrap
 msgid "Click a launcher on the dash"
 msgstr ""
 
-#: src/gettingstarted.svg:4667(flowPara)
+#: src/gettingstarted.svg:4682(flowPara)
 #, no-wrap
 msgid "Drag a launcher from the  dash and drop out of it"
 msgstr ""
