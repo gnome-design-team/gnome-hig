@@ -34,7 +34,7 @@
      inkscape:cx="375.02355"
      inkscape:cy="625.73748"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer17"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -905,6 +905,13 @@
            id="path10278" />
       </g>
     </g>
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10839"
+       width="765"
+       height="971"
+       x="-12"
+       y="95.362183" />
   </g>
   <g
      inkscape:groupmode="layer"
