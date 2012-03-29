@@ -66,8 +66,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="347.52869"
-     inkscape:cy="577.74713"
+     inkscape:cx="323.52869"
+     inkscape:cy="782.7178"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -82,7 +82,9 @@
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-nodes="false"
-     inkscape:object-paths="true">
+     inkscape:object-paths="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true">
     <inkscape:grid
        type="xygrid"
        id="grid2993"
@@ -118,6 +120,10 @@
        orientation="0,1"
        position="613.76869,800.44488"
        id="guide16191" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="52,658"
+       id="guide9689" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -942,7 +948,7 @@
      style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(2.197126,0,0,2.197126,150.95181,625.56026)"
+       transform="matrix(2.197126,0,0,2.197126,140.95181,625.56026)"
        id="g4490">
       <g
          inkscape:label="status"
@@ -996,66 +1002,66 @@
        sodipodi:linespacing="125%"
        id="text4051"
        y="546.79248"
-       x="70.87854"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
+       x="60.87854"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
          y="546.79248"
-         x="70.87854"
+         x="60.87854"
          id="tspan4053"
          sodipodi:role="line">WORKSPACES</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4063"
        y="582.49573"
-       x="70.87854"
+       x="60.87854"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          y="582.49573"
-         x="70.87854"
+         x="60.87854"
          sodipodi:role="line"
          id="tspan4118">START AN APP IN A NEW  WORKSPACE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="70.87854"
+       x="60.87854"
        y="714.49573"
        id="text4079"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="70.87854"
+         x="60.87854"
          y="714.49573"
          id="tspan4145">SEND APPS AND WINDOWS TO SPECIFIC WORKSPACE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
-       x="70.87854"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="60.87854"
        y="872.79242"
        id="text5345"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5347"
-         x="70.87854"
+         x="60.87854"
          y="872.79242">ENDING YOUR SESSION</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="70.87854"
+       x="60.87854"
        y="908.49567"
        id="text5535"
        sodipodi:linespacing="125%"><tspan
          id="tspan5539"
          sodipodi:role="line"
-         x="70.87854"
+         x="60.87854"
          y="908.49567">SUSPEND</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4482"
        y="672.47729"
-       x="146.99146"
+       x="136.99146"
        style="font-size:9.39663696px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
          y="672.47729"
-         x="146.99146"
+         x="136.99146"
          id="tspan4484"
          sodipodi:role="line">Calculator</tspan></text>
     <image
@@ -1063,20 +1069,20 @@
        height="25.840752"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAWCAYAAADwza0nAAAABHNCSVQICAgIfAhkiAAAAjpJREFU OI2NlL1rU1EYh59zbxpyb5KrkRIwf0ShuDoUPyY/wFEXHSQ4FUenUAcXV8ngHDrYwalOBSlksRW0 i13aOji0lDak0Ibcj9zzc/DeS62V9oV3e5/zew885xhJGGMcQJLEJcsxxrjAG8DPDrh0eYCmpqbe A9cARxIXNUAVULPZjFzX7QKNy8AFuL29rUajETuO8xa4ehFcgNZabW5uKgiC2HGc18AVwFwIxnEs SdrY2FCtVouBV0DwP7gAx+OxrLWSpLW1Nfm+HwMvgfp5cAEeHx8XqZLU7/fl+34EvABqZ+ECPDo6 +itVklZWVuR5XgQ8y+bMP+Dh4aFOTk6UJIlO1/LysjzPC4HHgJ/DBbi/v39uqiQtLS3J87wx8CgT xhTg7u6uBoPBuamS1Ov1rOd5I+AeUCnl3k0mE1zXLdpxHGZmZuzOzk4hfhRFvuM4PWvt/ULqNE1J 05S9vT0WFxex1tJut43rur/CMJwPw/CppCfW2ufAuFh1a2tL6+vrarVacbVaTQ4ODjQajRQEQQy0 geuZTUF2zz/g6uqqms1mXC6XP/m+/63T6aRJkmhhYSGtVqtfgNZpfwtweno6LpVKH4E7wMNarRYN BgMNh8PcogdAJQfzO2o4HH6YTCbvgO/AZ+Brt9u19Xqd2dlZC9zMV8zLAzrADbKHnPWtSqUSzs3N hb7vj4B5oJEnGsDNjJgAkSQLYIypALeBu8APoA/8lBST62OMMWc/KmOMAcrZoQAjIMnnfgNDbfXO pNFf+AAAAABJRU5ErkJggg== "
        id="image4486"
-       x="179.58215"
+       x="169.58215"
        y="651.92578" />
     <text
        sodipodi:linespacing="110%"
        id="text4594"
        y="606.23022"
-       x="93.124634"
+       x="83.124634"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="606.23022"
-         x="93.124634"
+         x="83.124634"
          sodipodi:role="line"
          id="tspan4596">Place the cursor over the app</tspan></text>
     <text
@@ -1085,18 +1091,18 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="70.87854"
+       x="60.87854"
        y="612.74866"
        id="text4598"
        sodipodi:linespacing="125%"><tspan
          id="tspan4600"
          sodipodi:role="line"
-         x="70.87854"
+         x="60.87854"
          y="612.74866">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="307.59552"
+       x="297.59552"
        y="605.69702"
        id="text4602"
        sodipodi:linespacing="110%"
@@ -1104,26 +1110,26 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="307.59552"
+         x="297.59552"
          y="605.69702"
          id="tspan4604">Click with the middle button</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4606"
        y="612.74866"
-       x="285.26935"
+       x="275.26935"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="612.74866"
-         x="285.26935"
+         x="275.26935"
          sodipodi:role="line"
          id="tspan4608">2</tspan></text>
     <g
        id="g4438"
-       transform="translate(-0.04722541,-837.86643)">
+       transform="translate(-10.047225,-837.86643)">
       <path
          sodipodi:type="arc"
          style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:3.78155518;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1195,26 +1201,26 @@
        transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
        sodipodi:linespacing="125%"
        id="text4450"
-       y="711.13599"
-       x="197.7478"
+       y="708.54779"
+       x="188.08853"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="711.13599"
-         x="197.7478"
+         y="708.54779"
+         x="188.08853"
          id="tspan4452"
          sodipodi:role="line">CLICK!</tspan></text>
     <text
        sodipodi:linespacing="110%"
        id="text3647"
        y="328.35245"
-       x="94.790802"
+       x="84.790802"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="328.35245"
-         x="94.790802"
+         x="84.790802"
          sodipodi:role="line"
          id="tspan3649">Hold down the Alt key</tspan></text>
     <text
@@ -1223,34 +1229,34 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="72.732208"
+       x="62.732208"
        y="308.47061"
        id="text3651"
        sodipodi:linespacing="125%"><tspan
          id="tspan3653"
          sodipodi:role="line"
-         x="72.732208"
+         x="62.732208"
          y="308.47061">SWITCH BETWEEN OPEN APPS</tspan></text>
     <path
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3657"
-       d="m 370.03786,359.47542 c 8.9529,2.2834 29.9734,2.2834 39.3305,0 1.3069,-0.3189 2.3201,1.0815 2.429,2.4151 l 3.2339,21.0211 -2.429,0 -45.7983,0 -2.4289,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
+       d="m 360.03786,359.47542 c 8.9529,2.2834 29.9734,2.2834 39.3305,0 1.3069,-0.3189 2.3201,1.0815 2.429,2.4151 l 3.2339,21.0211 -2.429,0 -45.7983,0 -2.4289,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="125%"
        id="text3659"
        y="375.90128"
-       x="389.47141"
+       x="379.47141"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
          y="375.90128"
-         x="389.47141"
+         x="379.47141"
          id="tspan3661"
          sodipodi:role="line">Tab</tspan></text>
     <g
        id="g3665"
-       transform="matrix(0.83333306,0,0,0.83333306,305.32816,-248.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,295.32816,-248.88835)"
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
@@ -1274,18 +1280,18 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="72.292755"
+       x="62.292755"
        y="334.76373"
        id="text3687"
        sodipodi:linespacing="125%"><tspan
          id="tspan3689"
          sodipodi:role="line"
-         x="72.292755"
+         x="62.292755"
          y="334.76373">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="309.22067"
+       x="299.22067"
        y="328.27042"
        id="text3691"
        sodipodi:linespacing="110%"
@@ -1293,44 +1299,44 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="309.22067"
+         x="299.22067"
          y="328.27042"
          id="tspan3693">Press the Tab key (and repeat)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3697"
        y="335.32208"
-       x="286.68356"
+       x="276.68356"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="335.32208"
-         x="286.68356"
+         x="276.68356"
          sodipodi:role="line"
          id="tspan3699">2</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 155.32672,359.47542 c 8.95289,2.2834 29.97339,2.2834 39.33049,0 1.3069,-0.3189 2.3201,1.0815 2.4289,2.4151 l 3.2339,21.0211 -2.4289,0 -45.7983,0 -2.42889,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
+       d="m 145.32672,359.47542 c 8.95289,2.2834 29.97339,2.2834 39.33049,0 1.3069,-0.3189 2.3201,1.0815 2.4289,2.4151 l 3.2339,21.0211 -2.4289,0 -45.7983,0 -2.42889,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
        id="path3724"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="174.7825"
+       x="164.7825"
        y="375.90128"
        id="text3726"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3728"
-         x="174.7825"
+         x="164.7825"
          y="375.90128">Alt</tspan></text>
     <rect
        transform="matrix(0,1,1,0,0,0)"
        x="354.30853"
-       y="169.99222"
+       y="159.99222"
        id="rect3730"
        rx="0"
        height="9.9997845"
@@ -1339,7 +1345,7 @@
        style="color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.83333306,0,0,0.83333306,90.617029,-248.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,80.617029,-248.88835)"
        id="g3732">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40000081;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1359,7 +1365,7 @@
     </g>
     <g
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.83333306,0,0,0.83333306,293.32816,-248.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,283.32816,-248.88835)"
        id="g3758">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40000081;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1379,7 +1385,7 @@
     </g>
     <g
        id="g3765"
-       transform="matrix(0.83333306,0,0,0.83333306,317.32816,-248.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,307.32816,-248.88835)"
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
@@ -1403,37 +1409,37 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="94.790802"
+       x="84.790802"
        y="438.35242"
        id="text3771"
        sodipodi:linespacing="110%"><tspan
          id="tspan3773"
          sodipodi:role="line"
-         x="94.790802"
+         x="84.790802"
          y="438.35242">Hold down the Alt key</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3775"
        y="418.47058"
-       x="72.732208"
+       x="62.732208"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="418.47058"
-         x="72.732208"
+         x="62.732208"
          sodipodi:role="line"
          id="tspan3777">SWITCH BETWEEN WINDOWS</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 370.03786,469.47542 c 8.9529,2.2834 29.9734,2.2834 39.3305,0 1.3069,-0.3189 2.3201,1.0815 2.429,2.4151 l 3.2339,21.0211 -2.429,0 -45.7983,0 -2.4289,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
+       d="m 360.03786,469.47542 c 8.9529,2.2834 29.9734,2.2834 39.3305,0 1.3069,-0.3189 2.3201,1.0815 2.429,2.4151 l 3.2339,21.0211 -2.429,0 -45.7983,0 -2.4289,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
        id="path3779"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <g
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.83333306,0,0,0.83333306,305.32816,-138.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,295.32816,-138.88835)"
        id="g3785">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40000081;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1455,14 +1461,14 @@
        sodipodi:linespacing="125%"
        id="text3791"
        y="444.76367"
-       x="72.292755"
+       x="62.292755"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="444.76367"
-         x="72.292755"
+         x="62.292755"
          sodipodi:role="line"
          id="tspan3793">1</tspan></text>
     <text
@@ -1472,12 +1478,12 @@
        sodipodi:linespacing="110%"
        id="text3795"
        y="438.27039"
-       x="309.22067"
+       x="299.22067"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
          id="tspan3797"
          y="438.27039"
-         x="309.22067"
+         x="299.22067"
          sodipodi:role="line">Press the key above tab (and repeat)</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -1485,29 +1491,29 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="286.68356"
+       x="276.68356"
        y="445.32202"
        id="text3799"
        sodipodi:linespacing="125%"><tspan
          id="tspan3801"
          sodipodi:role="line"
-         x="286.68356"
+         x="276.68356"
          y="445.32202">2</tspan></text>
     <path
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3803"
-       d="m 155.32672,469.47542 c 8.95289,2.2834 29.97339,2.2834 39.33049,0 1.3069,-0.3189 2.3201,1.0815 2.4289,2.4151 l 3.2339,21.0211 -2.4289,0 -45.7983,0 -2.42889,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
+       d="m 145.32672,469.47542 c 8.95289,2.2834 29.97339,2.2834 39.33049,0 1.3069,-0.3189 2.3201,1.0815 2.4289,2.4151 l 3.2339,21.0211 -2.4289,0 -45.7983,0 -2.42889,0 c 1.078,-7.007 2.1559,-14.0141 3.2339,-21.0211 0.2035,-1.3226 1.1255,-2.7476 2.4289,-2.4151 z"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        sodipodi:linespacing="125%"
        id="text3805"
        y="485.90125"
-       x="174.7825"
+       x="164.7825"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
          y="485.90125"
-         x="174.7825"
+         x="164.7825"
          id="tspan3807"
          sodipodi:role="line">Alt</tspan></text>
     <rect
@@ -1517,12 +1523,12 @@
        height="9.9997845"
        rx="0"
        id="rect3809"
-       y="169.99222"
+       y="159.99222"
        x="464.30847"
        transform="matrix(0,1,1,0,0,0)" />
     <g
        id="g3811"
-       transform="matrix(0.83333306,0,0,0.83333306,90.617029,-138.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,80.617029,-138.88835)"
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
@@ -1542,7 +1548,7 @@
     </g>
     <g
        id="g3817"
-       transform="matrix(0.83333306,0,0,0.83333306,293.32816,-138.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,283.32816,-138.88835)"
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
@@ -1562,7 +1568,7 @@
     </g>
     <g
        style="stroke-width:2.40000081;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.83333306,0,0,0.83333306,317.32816,-138.88835)"
+       transform="matrix(0.83333306,0,0,0.83333306,307.32816,-138.88835)"
        id="g3823">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40000081;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1584,34 +1590,34 @@
        sodipodi:linespacing="125%"
        id="text5295"
        y="494.60413"
-       x="377.11313"
+       x="367.11313"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
          y="494.60413"
-         x="377.11313"
+         x="367.11313"
          id="tspan5297"
          sodipodi:role="line">`</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="377.11313"
+       x="367.11313"
        y="480.60413"
        id="text5337"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5339"
-         x="377.11313"
+         x="367.11313"
          y="480.60413">¬</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Cantarell Bold"
-       x="398.02597"
+       x="388.02597"
        y="485.60437"
        id="text27248"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan27250"
-         x="398.02597"
+         x="388.02597"
          y="485.60437">|</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -1619,26 +1625,26 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="93.124634"
+       x="83.124634"
        y="736.23022"
        id="text3856"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         x="93.124634"
+         x="83.124634"
          y="736.23022"
          id="tspan3872">Open the overview</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3860"
        y="742.74866"
-       x="70.87854"
+       x="60.87854"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="742.74866"
-         x="70.87854"
+         x="60.87854"
          sodipodi:role="line"
          id="tspan3862">1</tspan></text>
     <text
@@ -1648,15 +1654,15 @@
        sodipodi:linespacing="110%"
        id="text3864"
        y="735.69702"
-       x="307.59552"
+       x="297.59552"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
          id="tspan3866"
          y="735.69702"
-         x="307.59552"
+         x="297.59552"
          sodipodi:role="line">Click and hold on the thing </tspan><tspan
          y="748.89703"
-         x="307.59552"
+         x="297.59552"
          sodipodi:role="line"
          id="tspan3918">you want to move</tspan></text>
     <text
@@ -1665,16 +1671,16 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
-       x="285.26935"
+       x="275.26935"
        y="742.74866"
        id="text3868"
        sodipodi:linespacing="125%"><tspan
          id="tspan3870"
          sodipodi:role="line"
-         x="285.26935"
+         x="275.26935"
          y="742.74866">2</tspan></text>
     <g
-       transform="matrix(0.83333306,0,0,0.83333306,89.202815,167.13676)"
+       transform="matrix(0.83333306,0,0,0.83333306,79.202815,167.13676)"
        id="g3898">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1694,7 +1700,7 @@
     </g>
     <g
        id="g3904"
-       transform="translate(-0.04722541,404.13356)">
+       transform="translate(-10.047225,404.13356)">
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 153.95976,371.367 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
@@ -1727,20 +1733,20 @@
        sodipodi:linespacing="125%"
        id="text3920"
        y="738.82385"
-       x="499.98041"
+       x="489.98041"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="738.82385"
-         x="499.98041"
+         x="489.98041"
          sodipodi:role="line"
          id="tspan3922">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="522.51752"
+       x="512.51752"
        y="731.77893"
        id="text3924"
        sodipodi:linespacing="110%"
@@ -1748,22 +1754,22 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="522.51752"
+         x="512.51752"
          y="731.77893"
          id="tspan3926">Drag to the workspace</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3987"
-       d="m 640.52475,737.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,737.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 640.52475,739.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,739.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        id="path3989"
        inkscape:connector-curvature="0" />
     <rect
        y="734.58551"
-       x="-650.28052"
+       x="-640.28052"
        height="14.203319"
        width="15.25"
        id="rect4011"
@@ -1771,7 +1777,7 @@
        transform="scale(-1,1)" />
     <g
        id="g4971"
-       transform="translate(4.5771246,-817.86643)">
+       transform="translate(-5.4228754,-817.86643)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(2.197126,0,0,2.197126,362.99903,1583.4267)"
@@ -1845,7 +1851,7 @@
     </g>
     <g
        id="g4933"
-       transform="translate(7.8765046,-817.86643)">
+       transform="translate(-2.1234954,-817.86643)">
       <g
          id="g4913"
          transform="matrix(1.6033403,0,0,1.6033403,524.36326,1582.0248)"
@@ -2049,7 +2055,7 @@
        sodipodi:linespacing="110%"
        id="text4986"
        y="930.23016"
-       x="93.124634"
+       x="83.124634"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
@@ -2057,12 +2063,12 @@
        inkscape:export-ydpi="90"><tspan
          id="tspan4988"
          y="930.23016"
-         x="93.124634"
+         x="83.124634"
          sodipodi:role="line">Close the lid</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="307.59552"
+       x="297.59552"
        y="930.23016"
        id="text4994"
        sodipodi:linespacing="110%"
@@ -2071,7 +2077,7 @@
        inkscape:export-ydpi="90"><tspan
          id="tspan4998"
          sodipodi:role="line"
-         x="307.59552"
+         x="297.59552"
          y="930.23016">Use the user menu</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -2080,17 +2086,17 @@
        sodipodi:linespacing="110%"
        id="text5026"
        y="930.23016"
-       x="522.51752"
+       x="512.51752"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
          id="tspan5028"
          y="930.23016"
-         x="522.51752"
+         x="512.51752"
          sodipodi:role="line">Press the power button</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
-       x="72.791016"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="62.791016"
        y="131.66028"
        id="text4149-9"
        sodipodi:linespacing="125%"
@@ -2099,7 +2105,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4151-3"
-         x="72.791016"
+         x="62.791016"
          y="131.66028">WINDOWS</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -2107,31 +2113,31 @@
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="93.423828"
+       x="83.423828"
        y="211.2453"
        id="text3389-1"
        sodipodi:linespacing="110%"><tspan
          id="tspan3393-2"
          sodipodi:role="line"
-         x="93.423828"
+         x="83.423828"
          y="211.2453">Open the overview</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4153-3"
        y="191.36346"
-       x="71.365234"
+       x="61.365234"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="191.36346"
-         x="71.365234"
+         x="61.365234"
          sodipodi:role="line"
          id="tspan27422-1">OPEN EXTRA WINDOWS USING SEARCH*</tspan></text>
     <g
        id="g4806-8"
-       transform="translate(248.75518,-484.4129)"
+       transform="translate(238.75518,-484.4129)"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -2187,7 +2193,7 @@
     <g
        style="display:inline"
        id="g4418-3"
-       transform="matrix(0.83333306,0,0,0.83333306,89.250027,-365.99546)">
+       transform="matrix(0.83333306,0,0,0.83333306,79.250027,-365.99546)">
       <path
          inkscape:connector-curvature="0"
          d="m 95.250257,715.10933 0,1.09089 c -1.31e-4,0.0113 -5.02e-4,0.0227 0,0.0341 0.01222,0.27812 0.140266,0.55621 0.340902,0.74999 l 5.693061,5.76124 5.65897,-5.76124 c 0.20529,-0.20532 0.30681,-0.49473 0.30681,-0.78413 l 0,-1.09089 -1.09088,0 c -0.28941,0 -0.57881,0.10156 -0.78408,0.30681 l -4.09082,4.15901 -4.124913,-4.15901 c -0.212319,-0.22989 -0.511898,-0.33071 -0.818164,-0.30681 l -1.090886,0 z"
@@ -2208,19 +2214,19 @@
        sodipodi:linespacing="125%"
        id="text3395-0"
        y="217.65643"
-       x="70.925781"
+       x="60.925781"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="217.65643"
-         x="70.925781"
+         x="60.925781"
          sodipodi:role="line"
          id="tspan3397-2">1</tspan></text>
     <g
        style="display:inline"
-       transform="translate(-1.5258792e-8,-128.99869)"
+       transform="translate(-10,-128.99869)"
        id="g3704-8">
       <path
          sodipodi:nodetypes="sssccccss"
@@ -2253,7 +2259,7 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="307.64276"
+       x="297.64276"
        y="210.51208"
        id="text5009-7"
        sodipodi:linespacing="110%"
@@ -2261,26 +2267,26 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="307.64276"
+         x="297.64276"
          y="210.51208"
          id="tspan5011-9">Just type to search</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5013-8"
        y="217.03064"
-       x="285.31659"
+       x="275.31659"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="217.03064"
-         x="285.31659"
+         x="275.31659"
          sodipodi:role="line"
          id="tspan5015-8">2</tspan></text>
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 312.15169,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 302.15169,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        id="path27275-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2288,11 +2294,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path27277-8"
-       d="m 332.96297,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 322.96297,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 353.77424,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 343.77424,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        id="path27279-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2300,11 +2306,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path5218-5"
-       d="m 374.3319,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 364.3319,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 395.14318,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 385.14318,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        id="path5220-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2312,11 +2318,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path5222-0"
-       d="m 415.95445,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 405.95445,243.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 436.51211,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 426.51211,243.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        id="path4829-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2324,11 +2330,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3662-4"
-       d="m 316.15169,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 306.15169,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 336.96297,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 326.96297,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        id="path3664-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2336,11 +2342,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3666-7"
-       d="m 357.77424,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 347.77424,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 378.3319,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 368.3319,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        id="path3668-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2348,11 +2354,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3670-0"
-       d="m 399.14318,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 389.14318,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 419.95445,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 409.95445,249.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        id="path3672-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2360,11 +2366,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3674-1"
-       d="m 440.51211,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 430.51211,249.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 322.15169,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 312.15169,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        id="path3676-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2372,11 +2378,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3678-8"
-       d="m 342.96297,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 332.96297,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 363.77424,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 353.77424,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        id="path3680-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2384,11 +2390,11 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3682-0"
-       d="m 384.3319,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 374.3319,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 405.14318,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
+       d="m 395.14318,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91947,-0.91946 z"
        id="path3684-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
@@ -2396,17 +2402,17 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3686-4"
-       d="m 425.95445,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
+       d="m 415.95445,255.70141 c 3.3891,0.86934 11.34635,0.86934 14.88848,0 0.4947,-0.12142 0.87827,0.41175 0.91946,0.91946 l 1.2242,8.00307 -0.91947,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81613,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42606,-1.04603 0.91947,-0.91946 z"
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.5999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:#eeeeec;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 446.51211,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
+       d="m 436.51211,255.70141 c 3.38911,0.86934 11.34636,0.86934 14.88849,0 0.4947,-0.12142 0.87826,0.41175 0.91946,0.91946 l 1.22419,8.00307 -0.91946,0 -17.33687,0 -0.91946,0 c 0.40806,-2.66769 0.81612,-5.33538 1.22419,-8.00307 0.077,-0.50353 0.42605,-1.04603 0.91946,-0.91946 z"
        id="path3688-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <g
        style="display:inline"
-       transform="matrix(0.83333306,0,0,0.83333306,256.03224,-367.04796)"
+       transform="matrix(0.83333306,0,0,0.83333306,246.03224,-367.04796)"
        id="g3713-5">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -2427,7 +2433,7 @@
     <g
        style="display:inline"
        id="g3740-4"
-       transform="matrix(0.83333306,0,0,0.83333306,301.40117,-361.04796)">
+       transform="matrix(0.83333306,0,0,0.83333306,291.40117,-361.04796)">
       <path
          inkscape:connector-curvature="0"
          d="m 95.250257,715.10933 0,1.09089 c -1.31e-4,0.0113 -5.02e-4,0.0227 0,0.0341 0.01222,0.27812 0.140266,0.55621 0.340902,0.74999 l 5.693061,5.76124 5.65897,-5.76124 c 0.20529,-0.20532 0.30681,-0.49473 0.30681,-0.78413 l 0,-1.09089 -1.09088,0 c -0.28941,0 -0.57881,0.10156 -0.78408,0.30681 l -4.09082,4.15901 -4.124913,-4.15901 c -0.212319,-0.22989 -0.511898,-0.33071 -0.818164,-0.30681 l -1.090886,0 z"
@@ -2447,7 +2453,7 @@
     <g
        style="display:inline"
        id="g3746-1"
-       transform="matrix(0.83333306,0,0,0.83333306,363.58138,-361.04796)">
+       transform="matrix(0.83333306,0,0,0.83333306,353.58138,-361.04796)">
       <path
          inkscape:connector-curvature="0"
          d="m 95.250257,715.10933 0,1.09089 c -1.31e-4,0.0113 -5.02e-4,0.0227 0,0.0341 0.01222,0.27812 0.140266,0.55621 0.340902,0.74999 l 5.693061,5.76124 5.65897,-5.76124 c 0.20529,-0.20532 0.30681,-0.49473 0.30681,-0.78413 l 0,-1.09089 -1.09088,0 c -0.28941,0 -0.57881,0.10156 -0.78408,0.30681 l -4.09082,4.15901 -4.124913,-4.15901 c -0.212319,-0.22989 -0.511898,-0.33071 -0.818164,-0.30681 l -1.090886,0 z"
@@ -2468,20 +2474,20 @@
        sodipodi:linespacing="125%"
        id="text5017-9"
        y="217.10583"
-       x="500.02771"
+       x="490.02771"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="217.10583"
-         x="500.02771"
+         x="490.02771"
          sodipodi:role="line"
          id="tspan5019-4">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="522.56482"
+       x="512.56482"
        y="210.06091"
        id="text5021-5"
        sodipodi:linespacing="110%"
@@ -2489,29 +2495,29 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="522.56482"
+         x="512.56482"
          y="210.06091"
          id="tspan5023-4">Press ctrl+return to select</tspan></text>
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 609.382,241.3158 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
+       d="m 599.382,241.3158 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
        id="path5161-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="628.7489"
+       x="618.7489"
        y="259.72043"
        id="text5163-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5165-3"
-         x="628.7489"
+         x="618.7489"
          y="259.72043">↵</tspan></text>
     <path
        inkscape:connector-curvature="0"
-       d="m 624.04746,230.87628 0,0.90907 c -1.1e-4,0.009 -4.2e-4,0.0189 0,0.0284 0.0102,0.23176 0.11689,0.46351 0.28408,0.62499 l 4.74422,4.80103 4.71581,-4.80103 c 0.17107,-0.1711 0.25567,-0.41228 0.25567,-0.65344 l 0,-0.90908 -0.90907,0 c -0.24117,0 -0.48234,0.0846 -0.6534,0.25568 l -3.40901,3.46584 -3.43743,-3.46584 c -0.17693,-0.19158 -0.42658,-0.27559 -0.6818,-0.25568 l -0.90907,0 z"
+       d="m 614.04746,230.87628 0,0.90907 c -1.1e-4,0.009 -4.2e-4,0.0189 0,0.0284 0.0102,0.23176 0.11689,0.46351 0.28408,0.62499 l 4.74422,4.80103 4.71581,-4.80103 c 0.17107,-0.1711 0.25567,-0.41228 0.25567,-0.65344 l 0,-0.90908 -0.90907,0 c -0.24117,0 -0.48234,0.0846 -0.6534,0.25568 l -3.40901,3.46584 -3.43743,-3.46584 c -0.17693,-0.19158 -0.42658,-0.27559 -0.6818,-0.25568 l -0.90907,0 z"
        id="path5232-9"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" />
     <rect
@@ -2522,7 +2528,7 @@
        rx="0"
        id="rect5234-6"
        y="225.7247"
-       x="-629.95642"
+       x="-619.95642"
        transform="scale(-1,1)" />
     <text
        inkscape:export-ydpi="90"
@@ -2531,23 +2537,23 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="62"
-       y="1047.7987"
+       y="982.78619"
        id="text16193"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
          x="62"
-         y="1047.7987"
+         y="982.78619"
          id="tspan16195">* Available since 3.2</tspan></text>
     <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8915"
        width="21"
        height="21"
-       x="41"
+       x="31"
        y="119.36218" />
     <rect
        y="535.36218"
-       x="41"
+       x="31"
        height="21"
        width="21"
        id="rect9685"
@@ -2557,7 +2563,7 @@
        id="rect9687"
        width="21"
        height="21"
-       x="41"
+       x="31"
        y="861.36218" />
   </g>
 </svg>
