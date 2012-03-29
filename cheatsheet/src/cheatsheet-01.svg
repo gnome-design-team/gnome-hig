@@ -52,10 +52,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="363.60541"
-     inkscape:cy="562.37585"
+     inkscape:cx="370.97442"
+     inkscape:cy="313.62789"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer17"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1923,8 +1923,8 @@
        x="370.33615"
        y="701.68927" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 397.99812,675.26702 c -37.95518,0 -37.95518,0 -37.95518,0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 360.03125,674.28125 0,2 37.96875,0 0,-2 -37.96875,0 z"
        id="path4657"
        inkscape:connector-curvature="0" />
     <g
@@ -2275,8 +2275,8 @@
        id="g4386"
        transform="matrix(-1,0,0,-1,509.85277,1428.8002)">
       <path
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 87.327688,568.19892 c 0,37.95518 0,37.95518 0,37.95518"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 86.3125,568.1875 0,37.96875 2,0 0,-37.96875 -2,0 z"
          id="path4388"
          inkscape:connector-curvature="0" />
       <g
