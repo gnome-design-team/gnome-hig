@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-03-29 14:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gettingstarted.svg:2136(format)
+msgid "image/svg+xml"
+msgstr ""
+
+#: gettingstarted.svg:2180(tspan) gettingstarted.svg:2331(tspan)
+#, no-wrap
+msgid "Activities"
+msgstr ""
+
+#: gettingstarted.svg:2547(tspan)
+#, no-wrap
+msgid "Entering Overview"
+msgstr ""
+
+#: gettingstarted.svg:2559(tspan)
+#, no-wrap
+msgid "Trow the pointer in the top "
+msgstr ""
+
+#: gettingstarted.svg:2564(tspan)
+#, no-wrap
+msgid "left corner"
+msgstr ""
+
+#: gettingstarted.svg:2576(tspan)
+#, no-wrap
+msgid "Click on activities"
+msgstr ""
+
+#: gettingstarted.svg:2588(tspan)
+#, no-wrap
+msgid "Press the logo key on the "
+msgstr ""
+
+#: gettingstarted.svg:2593(tspan)
+#, no-wrap
+msgid "keyboard"
+msgstr ""
+
+#: gettingstarted.svg:2605(tspan)
+#, no-wrap
+msgid "Starting Applications"
+msgstr ""
+
+#: gettingstarted.svg:2617(tspan)
+#, no-wrap
+msgid "Click a launcher on the "
+msgstr ""
+
+#: gettingstarted.svg:2622(tspan)
+#, no-wrap
+msgid "dash"
+msgstr ""
+
+#: gettingstarted.svg:3255(tspan)
+#, no-wrap
+msgid "Drag a launcher from the "
+msgstr ""
+
+#: gettingstarted.svg:3260(tspan)
+#, no-wrap
+msgid "dash and drop out of it"
+msgstr ""
+
+#: gettingstarted.svg:4308(tspan)
+#, no-wrap
+msgid "When in overview, type the few initial letters"
+msgstr ""
+
+#: gettingstarted.svg:4313(tspan)
+#, no-wrap
+msgid "of the application name"
+msgstr ""
+
+#: gettingstarted.svg:4325(tspan)
+#, no-wrap
+msgid "Press Enter"
+msgstr ""
+
+#: gettingstarted.svg:4477(flowPara)
+#, no-wrap
+msgid "3"
+msgstr ""
+
+#: gettingstarted.svg:4489(tspan)
+#, no-wrap
+msgid "GETTING STARTED"
+msgstr ""
+
+#: gettingstarted.svg:4564(tspan)
+#, no-wrap
+msgid "or"
+msgstr ""
+
