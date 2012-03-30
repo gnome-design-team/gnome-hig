@@ -133,7 +133,7 @@ msgstr "Poslat aplikaci nebo okno na specifickou pracovní plochu"
 msgid "Calculator"
 msgstr "Kalkulačka"
 
-#: src/cheatsheet-02.svg:1030(tspan)
+#: src/cheatsheet-02.svg:2471(flowPara)
 #, no-wrap
 msgid "Place the cursor over the app"
 msgstr "Umístěte kurzor nad ikonu aplikace"

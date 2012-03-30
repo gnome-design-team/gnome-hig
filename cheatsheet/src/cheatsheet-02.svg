@@ -52,7 +52,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="402.41929"
+     inkscape:cx="404.41929"
      inkscape:cy="356.40752"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
@@ -61,8 +61,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1448"
      inkscape:window-height="1166"
-     inkscape:window-x="2673"
-     inkscape:window-y="199"
+     inkscape:window-x="2091"
+     inkscape:window-y="140"
      inkscape:window-maximized="0"
      units="cm"
      inkscape:snap-bbox="true"
@@ -942,7 +942,7 @@
      style="display:inline">
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(2.197126,0,0,2.197126,140.95181,705.56026)"
+       transform="matrix(2.197126,0,0,2.197126,140.95181,725.56026)"
        id="g4490">
       <g
          inkscape:label="status"
@@ -1018,38 +1018,24 @@
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        x="60.87854"
-       y="794.49573"
+       y="814.49573"
        id="text4079"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="60.87854"
-         y="794.49573"
+         y="814.49573"
          id="tspan4145">Send Apps and Windows to a Specific Workspace</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4482"
-       y="752.47729"
+       y="772.47729"
        x="136.99146"
        style="font-size:9.39663696px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        xml:space="preserve"><tspan
-         y="752.47729"
+         y="772.47729"
          x="136.99146"
          id="tspan4484"
          sodipodi:role="line">Calculator</tspan></text>
-    <text
-       sodipodi:linespacing="110%"
-       id="text4594"
-       y="686.23022"
-       x="83.124634"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       xml:space="preserve"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         y="686.23022"
-         x="83.124634"
-         sodipodi:role="line"
-         id="tspan4596">Place the cursor over the app</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1064,20 +1050,6 @@
          sodipodi:role="line"
          x="60.87854"
          y="692.74866">1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="297.59552"
-       y="685.69702"
-       id="text4602"
-       sodipodi:linespacing="110%"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="297.59552"
-         y="685.69702"
-         id="tspan4604">Click with the middle button</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4606"
@@ -1094,7 +1066,7 @@
          id="tspan4608">2</tspan></text>
     <g
        id="g4438"
-       transform="translate(-10.047225,-757.86643)">
+       transform="translate(-10.047225,-737.86643)">
       <path
          sodipodi:type="arc"
          style="fill:#000000;fill-opacity:1;stroke:#010000;stroke-width:3.78155518;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1166,12 +1138,12 @@
        transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
        sodipodi:linespacing="125%"
        id="text4450"
-       y="785.82196"
-       x="167.38303"
+       y="805.1405"
+       x="162.20665"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        xml:space="preserve"><tspan
-         y="785.82196"
-         x="167.38303"
+         y="805.1405"
+         x="162.20665"
          id="tspan4452"
          sodipodi:role="line">CLICK!</tspan></text>
     <text
@@ -1591,24 +1563,24 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="83.124634"
-       y="836.23022"
+       y="856.23022"
        id="text3856"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
          x="83.124634"
-         y="836.23022"
+         y="856.23022"
          id="tspan3872">Open the overview</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3860"
-       y="842.74866"
+       y="862.74866"
        x="60.87854"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="842.74866"
+         y="862.74866"
          x="60.87854"
          sodipodi:role="line"
          id="tspan3862">1</tspan></text>
@@ -1619,15 +1591,15 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        x="275.26935"
-       y="842.74866"
+       y="862.74866"
        id="text3868"
        sodipodi:linespacing="125%"><tspan
          id="tspan3870"
          sodipodi:role="line"
          x="275.26935"
-         y="842.74866">2</tspan></text>
+         y="862.74866">2</tspan></text>
     <g
-       transform="matrix(0.83333306,0,0,0.83333306,79.202815,267.13676)"
+       transform="matrix(0.83333306,0,0,0.83333306,79.202815,287.13676)"
        id="g3898">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#000100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -1647,7 +1619,7 @@
     </g>
     <g
        id="g3904"
-       transform="translate(-10.047225,504.13356)">
+       transform="translate(-10.047225,524.13356)">
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 153.95976,371.367 c 8.9529,2.28344 29.97334,2.28344 39.33048,0 1.30685,-0.31892 2.3201,1.08151 2.42893,2.4151 l 3.23391,21.02111 -2.42893,0 -45.79831,0 -2.42892,0 c 1.07797,-7.00704 2.15594,-14.01408 3.23391,-21.02111 0.20347,-1.32259 1.1255,-2.74755 2.42893,-2.4151 z"
@@ -1679,14 +1651,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text3920"
-       y="841.80615"
+       y="861.80615"
        x="489.98041"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="841.80615"
+         y="861.80615"
          x="489.98041"
          sodipodi:role="line"
          id="tspan3922">3</tspan></text>
@@ -1694,7 +1666,7 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
        x="512.51752"
-       y="835.77893"
+       y="855.77893"
        id="text3924"
        sodipodi:linespacing="110%"
        inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
@@ -1702,20 +1674,20 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="512.51752"
-         y="835.77893"
+         y="855.77893"
          id="tspan3926">Drag to the workspace</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3987"
-       d="m 630.52475,837.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,857.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 630.52475,839.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
+       d="m 630.52475,859.71626 c 7.7781,7.7782 7.7781,7.7782 7.7781,7.7782"
        id="path3989"
        inkscape:connector-curvature="0" />
     <rect
-       y="834.58551"
+       y="854.58551"
        x="-640.28052"
        height="14.203319"
        width="15.25"
@@ -1724,7 +1696,7 @@
        transform="scale(-1,1)" />
     <g
        id="g4971"
-       transform="translate(-5.4228754,-717.86643)">
+       transform="translate(-5.4228754,-697.86643)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(2.197126,0,0,2.197126,362.99903,1583.4267)"
@@ -1798,7 +1770,7 @@
     </g>
     <g
        id="g4933"
-       transform="translate(-2.1234954,-717.86643)">
+       transform="translate(-2.1234954,-697.86643)">
       <g
          id="g4913"
          transform="matrix(1.6033403,0,0,1.6033403,524.36326,1582.0248)"
@@ -1852,7 +1824,7 @@
            style="fill:#000000;fill-opacity:1" />
       </g>
       <rect
-         style="fill:#ffffff;stroke:#000000;stroke-width:1.59999990000000003;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-linejoin:miter;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4911"
          width="55.986267"
          height="25.584995"
@@ -1996,7 +1968,7 @@
          height="35.584995"
          width="55.986267"
          id="rect4141"
-         style="fill:#ffffff;stroke:#000000;stroke-width:1.59999990000000003;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-linejoin:miter;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <text
        xml:space="preserve"
@@ -2451,7 +2423,7 @@
          id="tspan16195">* Available since 3.2</tspan></text>
     <g
        id="g12517-4-3"
-       transform="matrix(0.85558264,0,0,0.85558264,-141.01072,515.64132)">
+       transform="matrix(0.85558264,0,0,0.85558264,-141.01072,535.64132)">
       <g
          transform="matrix(1.7497924,0,0,1.7497924,313.87118,241.9164)"
          inkscape:label="#g5607"
@@ -2475,7 +2447,7 @@
        xml:space="preserve"
        id="flowRoot5421"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       transform="translate(-210.324,158)"><flowRegion
+       transform="translate(-210.324,178)"><flowRegion
          id="flowRegion5423"><rect
            id="rect5425"
            width="176"
@@ -2484,5 +2456,29 @@
            y="667.36218"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium" /></flowRegion><flowPara
          id="flowPara5427">Click and hold on the app you want to move</flowPara><flowPara
-         id="flowPara5429" /></flowRoot>  </g>
+         id="flowPara5429" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3421"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
+       transform="translate(4.6486338,9.464153)"><flowRegion
+         id="flowRegion3423"><rect
+           id="rect3425"
+           width="178"
+           height="47"
+           x="79"
+           y="666.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium" /></flowRegion><flowPara
+         id="flowPara3427">Place the cursor over the app</flowPara></flowRoot>    <flowRoot
+       transform="translate(219.476,9.464153)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
+       id="flowRoot3448"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3450"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:110.00000238%;letter-spacing:-0.30000001px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
+           y="666.36218"
+           x="79"
+           height="40"
+           width="379"
+           id="rect3452" /></flowRegion><flowPara
+         id="flowPara3454">Click with the middle button</flowPara></flowRoot>  </g>
 </svg>
