@@ -41,7 +41,7 @@ msgstr ""
 #: src/gettingstarted.svg:4415(tspan)
 #, no-wrap
 msgid "GETTING STARTED"
-msgstr "ZAČÍNÁME"
+msgstr "ZAČÍNAME"
 
 #: src/gettingstarted.svg:4547(tspan)
 #, no-wrap
@@ -76,7 +76,7 @@ msgstr "Kliknite na ikonu aplikácie v paneli"
 #: src/gettingstarted.svg:4688(flowPara)
 #, no-wrap
 msgid "Drag a launcher from the  dash and drop out of it"
-msgstr "Pretiahnte ikonu aplikácie von z panela"
+msgstr "Pretiahnite ikonu aplikácie von z panela"
 
 #: src/cheatsheet-03.svg:200(tspan) src/cheatsheet-02.svg:222(tspan) src/cheatsheet-01.svg:215(tspan)
 #, no-wrap
@@ -116,7 +116,7 @@ msgstr "PRACOVNÉ PLOCHY"
 #: src/cheatsheet-02.svg:1016(tspan)
 #, no-wrap
 msgid "Start an App in a New Workspace"
-msgstr "Spustenie aplikácie na novéj pracovnej ploche"
+msgstr "Spustenie aplikácie na novej pracovnej ploche"
 
 #: src/cheatsheet-02.svg:1027(tspan)
 #, no-wrap
