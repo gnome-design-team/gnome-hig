@@ -133,7 +133,7 @@ msgstr "Envoyer des Applications et Fenêtres vers un espace de travail"
 msgid "Calculator"
 msgstr "Calculatrice"
 
-#: src/cheatsheet-02.svg:1051(tspan)
+#: src/cheatsheet-02.svg:2471(flowPara)
 #, no-wrap
 msgid "Place the cursor over the app"
 msgstr "Placer le pointeur au dessus de l'application"
@@ -143,7 +143,7 @@ msgstr "Placer le pointeur au dessus de l'application"
 msgid "1"
 msgstr "1"
 
-#: src/cheatsheet-02.svg:1079(tspan)
+#: src/cheatsheet-02.svg:2483(flowPara)
 #, no-wrap
 msgid "Click with the middle button"
 msgstr "Cliquer avec le bouton du milieu"

@@ -141,9 +141,9 @@ msgstr "Umístěte kurzor nad ikonu aplikace"
 #: src/cheatsheet-02.svg:1044(tspan) src/cheatsheet-02.svg:1233(tspan) src/cheatsheet-02.svg:1416(tspan) src/cheatsheet-02.svg:1592(tspan) src/cheatsheet-02.svg:2127(tspan) src/cheatsheet-01.svg:1849(tspan) src/cheatsheet-01.svg:2044(tspan) src/cheatsheet-01.svg:2233(tspan) src/cheatsheet-01.svg:2515(tspan) src/cheatsheet-01.svg:2754(tspan)
 #, no-wrap
 msgid "1"
-msgstr "1"
+msgstr ""
 
-#: src/cheatsheet-02.svg:1058(tspan)
+#: src/cheatsheet-02.svg:2483(flowPara)
 #, no-wrap
 msgid "Click with the middle button"
 msgstr "Klepněte prostředním tlačítkem myši"
@@ -151,7 +151,7 @@ msgstr "Klepněte prostředním tlačítkem myši"
 #: src/cheatsheet-02.svg:1072(tspan) src/cheatsheet-02.svg:1261(tspan) src/cheatsheet-02.svg:1444(tspan) src/cheatsheet-02.svg:1624(tspan) src/cheatsheet-02.svg:2187(tspan) src/cheatsheet-01.svg:2030(tspan) src/cheatsheet-01.svg:2074(tspan) src/cheatsheet-01.svg:2261(tspan) src/cheatsheet-01.svg:2543(tspan) src/cheatsheet-01.svg:2782(tspan)
 #, no-wrap
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: src/cheatsheet-02.svg:1154(tspan)
 #, no-wrap
