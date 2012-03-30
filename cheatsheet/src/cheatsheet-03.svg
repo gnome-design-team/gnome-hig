@@ -32,16 +32,16 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="375.02355"
-     inkscape:cy="625.73748"
+     inkscape:cy="305.73748"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer16"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1448"
-     inkscape:window-height="1214"
-     inkscape:window-x="1687"
-     inkscape:window-y="153"
+     inkscape:window-height="1166"
+     inkscape:window-x="2632"
+     inkscape:window-y="161"
      inkscape:window-maximized="0"
      units="cm"
      inkscape:snap-bbox="true"
@@ -98,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -918,20 +918,6 @@
      id="layer16"
      inkscape:label="page2"
      style="display:inline">
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/allan/SparkleShare/gnome-design/promo/cheatsheet/steps.png"
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:110.00000237999999797%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium"
-       x="62"
-       y="982.78619"
-       id="text16193"
-       sodipodi:linespacing="110%"><tspan
-         sodipodi:role="line"
-         x="62"
-         y="982.78619"
-         id="tspan16195">* Available since 3.2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"

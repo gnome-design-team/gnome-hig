@@ -1,6 +1,7 @@
 for file in po/*po;
 do
 	lang=`echo $file | sed 's/po\/\(.*\)\.po/\1/gi'`
+	echo $lang
 	mkdir -p ./out/$lang
 	xml2po -a -p $file src/gettingstarted.svg > out/$lang/gettingstarted.svg
 	xml2po -a -p $file src/cheatsheet-01.svg > out/$lang/cheatsheet-01.svg
