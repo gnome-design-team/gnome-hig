@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-03-30 15:31+0200\n"
+"POT-Creation-Date: 2012-03-30 20:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 msgid "Press Enter"
 msgstr ""
 
-#: src/gettingstarted.svg:4403(flowPara) src/cheatsheet-03.svg:188(flowPara) src/cheatsheet-02.svg:209(flowPara) src/cheatsheet-02.svg:1691(tspan) src/cheatsheet-02.svg:2390(tspan) src/cheatsheet-01.svg:203(flowPara) src/cheatsheet-01.svg:2442(tspan) src/cheatsheet-01.svg:2564(tspan) src/cheatsheet-01.svg:2803(tspan) src/cheatsheet-01.svg:2877(tspan) src/cheatsheet-01.svg:2905(tspan)
+#: src/gettingstarted.svg:4403(flowPara) src/cheatsheet-03.svg:188(flowPara) src/cheatsheet-02.svg:210(flowPara) src/cheatsheet-02.svg:1692(tspan) src/cheatsheet-02.svg:2391(tspan) src/cheatsheet-01.svg:203(flowPara) src/cheatsheet-01.svg:2442(tspan) src/cheatsheet-01.svg:2564(tspan) src/cheatsheet-01.svg:2803(tspan) src/cheatsheet-01.svg:2877(tspan) src/cheatsheet-01.svg:2905(tspan)
 #, no-wrap
 msgid "3"
 msgstr ""
@@ -78,177 +78,177 @@ msgstr ""
 msgid "Drag a launcher from the  dash and drop out of it"
 msgstr ""
 
-#: src/cheatsheet-03.svg:200(tspan) src/cheatsheet-02.svg:221(tspan) src/cheatsheet-01.svg:215(tspan)
+#: src/cheatsheet-03.svg:200(tspan) src/cheatsheet-02.svg:222(tspan) src/cheatsheet-01.svg:215(tspan)
 #, no-wrap
 msgid "CHEAT SHEET"
 msgstr ""
 
-#: src/cheatsheet-03.svg:934(tspan) src/cheatsheet-02.svg:2450(tspan)
-#, no-wrap
-msgid "* Available since 3.2"
-msgstr ""
-
-#: src/cheatsheet-03.svg:945(tspan)
+#: src/cheatsheet-03.svg:931(tspan)
 #, no-wrap
 msgid "ENDING YOUR SESSION"
 msgstr ""
 
-#: src/cheatsheet-03.svg:956(tspan)
+#: src/cheatsheet-03.svg:942(tspan)
 #, no-wrap
 msgid "Suspend"
 msgstr ""
 
-#: src/cheatsheet-03.svg:970(tspan)
+#: src/cheatsheet-03.svg:956(tspan)
 #, no-wrap
 msgid "Close the lid"
 msgstr ""
 
-#: src/cheatsheet-03.svg:984(tspan)
+#: src/cheatsheet-03.svg:970(tspan)
 #, no-wrap
 msgid "Use the user menu"
 msgstr ""
 
-#: src/cheatsheet-03.svg:998(tspan)
+#: src/cheatsheet-03.svg:984(tspan)
 #, no-wrap
 msgid "Press the power button"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1004(tspan)
+#: src/cheatsheet-02.svg:1005(tspan)
 #, no-wrap
 msgid "WORKSPACES"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1015(tspan)
+#: src/cheatsheet-02.svg:1016(tspan)
 #, no-wrap
 msgid "Start an App in a New Workspace"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1026(tspan)
+#: src/cheatsheet-02.svg:1027(tspan)
 #, no-wrap
 msgid "Send Apps and Windows to a Specific Workspace"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1037(tspan) src/cheatsheet-02.svg:1789(tspan) src/cheatsheet-01.svg:1400(tspan)
+#: src/cheatsheet-02.svg:1038(tspan) src/cheatsheet-02.svg:1790(tspan) src/cheatsheet-01.svg:1400(tspan)
 #, no-wrap
 msgid "Calculator"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1051(tspan)
+#: src/cheatsheet-02.svg:1052(tspan)
 #, no-wrap
 msgid "Place the cursor over the app"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1065(tspan) src/cheatsheet-02.svg:1254(tspan) src/cheatsheet-02.svg:1437(tspan) src/cheatsheet-02.svg:1613(tspan) src/cheatsheet-02.svg:2130(tspan) src/cheatsheet-01.svg:1856(tspan) src/cheatsheet-01.svg:2051(tspan) src/cheatsheet-01.svg:2240(tspan) src/cheatsheet-01.svg:2522(tspan) src/cheatsheet-01.svg:2761(tspan)
+#: src/cheatsheet-02.svg:1066(tspan) src/cheatsheet-02.svg:1255(tspan) src/cheatsheet-02.svg:1438(tspan) src/cheatsheet-02.svg:1614(tspan) src/cheatsheet-02.svg:2131(tspan) src/cheatsheet-01.svg:1856(tspan) src/cheatsheet-01.svg:2051(tspan) src/cheatsheet-01.svg:2240(tspan) src/cheatsheet-01.svg:2522(tspan) src/cheatsheet-01.svg:2761(tspan)
 #, no-wrap
 msgid "1"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1079(tspan)
+#: src/cheatsheet-02.svg:1080(tspan)
 #, no-wrap
 msgid "Click with the middle button"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1093(tspan) src/cheatsheet-02.svg:1282(tspan) src/cheatsheet-02.svg:1465(tspan) src/cheatsheet-02.svg:1627(tspan) src/cheatsheet-02.svg:2190(tspan) src/cheatsheet-01.svg:2037(tspan) src/cheatsheet-01.svg:2081(tspan) src/cheatsheet-01.svg:2268(tspan) src/cheatsheet-01.svg:2550(tspan) src/cheatsheet-01.svg:2789(tspan)
+#: src/cheatsheet-02.svg:1094(tspan) src/cheatsheet-02.svg:1283(tspan) src/cheatsheet-02.svg:1466(tspan) src/cheatsheet-02.svg:1628(tspan) src/cheatsheet-02.svg:2191(tspan) src/cheatsheet-01.svg:2037(tspan) src/cheatsheet-01.svg:2081(tspan) src/cheatsheet-01.svg:2268(tspan) src/cheatsheet-01.svg:2550(tspan) src/cheatsheet-01.svg:2789(tspan)
 #, no-wrap
 msgid "2"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1175(tspan)
+#: src/cheatsheet-02.svg:1176(tspan)
 #, no-wrap
 msgid "CLICK!"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1189(tspan) src/cheatsheet-02.svg:1383(tspan)
+#: src/cheatsheet-02.svg:1190(tspan) src/cheatsheet-02.svg:1384(tspan)
 #, no-wrap
 msgid "Hold down the Alt key"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1203(tspan)
+#: src/cheatsheet-02.svg:1204(tspan)
 #, no-wrap
 msgid "Switch Between Open Apps"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1220(tspan)
+#: src/cheatsheet-02.svg:1221(tspan)
 #, no-wrap
 msgid "Tab"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1268(tspan)
+#: src/cheatsheet-02.svg:1269(tspan)
 #, no-wrap
 msgid "Press the Tab key (and repeat)"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1299(tspan) src/cheatsheet-02.svg:1482(tspan)
+#: src/cheatsheet-02.svg:1300(tspan) src/cheatsheet-02.svg:1483(tspan)
 #, no-wrap
 msgid "Alt"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1397(tspan)
+#: src/cheatsheet-02.svg:1398(tspan)
 #, no-wrap
 msgid "Switch Between Windows"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1451(tspan)
+#: src/cheatsheet-02.svg:1452(tspan)
 #, no-wrap
 msgid "Press the key above tab (and repeat)"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1563(tspan)
+#: src/cheatsheet-02.svg:1564(tspan)
 #, no-wrap
 msgid "`"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1574(tspan)
+#: src/cheatsheet-02.svg:1575(tspan)
 #, no-wrap
 msgid "¬"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1585(tspan)
+#: src/cheatsheet-02.svg:1586(tspan)
 #, no-wrap
 msgid "|"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1599(tspan) src/cheatsheet-02.svg:2027(tspan) src/cheatsheet-01.svg:1068(tspan) src/cheatsheet-01.svg:2489(tspan) src/cheatsheet-01.svg:2728(tspan)
+#: src/cheatsheet-02.svg:1600(tspan) src/cheatsheet-02.svg:2028(tspan) src/cheatsheet-01.svg:1068(tspan) src/cheatsheet-01.svg:2489(tspan) src/cheatsheet-01.svg:2728(tspan)
 #, no-wrap
 msgid "Open the overview"
 msgstr ""
 
-#: src/cheatsheet-02.svg:1705(tspan)
+#: src/cheatsheet-02.svg:1706(tspan)
 #, no-wrap
 msgid "Drag to the workspace"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2013(tspan) src/cheatsheet-01.svg:3577(tspan)
+#: src/cheatsheet-02.svg:2014(tspan) src/cheatsheet-01.svg:3577(tspan)
 #, no-wrap
 msgid "WINDOWS"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2041(tspan)
+#: src/cheatsheet-02.svg:2042(tspan)
 #, no-wrap
 msgid "Open Extra Windows Using Search*"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2065(tspan) src/cheatsheet-01.svg:1358(tspan) src/cheatsheet-01.svg:2067(tspan)
+#: src/cheatsheet-02.svg:2066(tspan) src/cheatsheet-01.svg:1358(tspan) src/cheatsheet-01.svg:2067(tspan)
 #, no-wrap
 msgid "Ctrl"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2176(tspan) src/cheatsheet-01.svg:2775(tspan)
+#: src/cheatsheet-02.svg:2177(tspan) src/cheatsheet-01.svg:2775(tspan)
 #, no-wrap
 msgid "Just type to search"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2404(tspan)
+#: src/cheatsheet-02.svg:2405(tspan)
 #, no-wrap
 msgid "Press ctrl+return to select"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2421(tspan) src/cheatsheet-01.svg:2848(tspan)
+#: src/cheatsheet-02.svg:2422(tspan) src/cheatsheet-01.svg:2848(tspan)
 #, no-wrap
 msgid "↵"
 msgstr ""
 
-#: src/cheatsheet-02.svg:2485(flowPara)
+#: src/cheatsheet-02.svg:2451(tspan)
+#, no-wrap
+msgid "* Available since 3.2"
+msgstr ""
+
+#: src/cheatsheet-02.svg:2486(flowPara)
 #, no-wrap
 msgid "Click and hold on the app you want to move"
 msgstr ""
