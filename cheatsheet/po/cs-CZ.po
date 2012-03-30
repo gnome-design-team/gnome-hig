@@ -256,85 +256,85 @@ msgstr ""
 #: src/cheatsheet-01.svg:1085(tspan)
 #, no-wrap
 msgid "Open Extra Windows"
-msgstr ""
+msgstr "Otevření dalších oken téže aplikace"
 
 #: src/cheatsheet-01.svg:1096(tspan)
 #, no-wrap
 msgid "Opening the Activities overview"
-msgstr ""
+msgstr "Otevření přehledu aktivit"
 
 #: src/cheatsheet-01.svg:1107(tspan)
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Vyhledávání"
 
 #: src/cheatsheet-01.svg:1121(tspan)
 #, no-wrap
 msgid "Maximize"
-msgstr ""
+msgstr "Maximalizace"
 
 #: src/cheatsheet-01.svg:1132(tspan)
 #, no-wrap
 msgid "Favorite Applications"
-msgstr ""
+msgstr "Přidání aplikace do oblíbených"
 
 #: src/cheatsheet-01.svg:1426(tspan) src/cheatsheet-01.svg:2219(tspan)
 #, no-wrap
 msgid "Click and hold the titlebar"
-msgstr ""
+msgstr "Klepněte a držte titulek okna"
 
 #: src/cheatsheet-01.svg:2016(tspan)
 #, no-wrap
 msgid "Drag to the top of the screen"
-msgstr ""
+msgstr "Přesuňte okno na vrch obrazovky"
 
 #: src/cheatsheet-01.svg:2058(tspan)
 #, no-wrap
 msgid "Hold down the <placeholder-1/> key"
-msgstr ""
+msgstr "Podržte tlačítko <placeholder-1/>"
 
 #: src/cheatsheet-01.svg:2130(tspan)
 #, no-wrap
 msgid "Resize to Half of the Screen"
-msgstr ""
+msgstr "Zvětšit na polovinu obrazovky"
 
 #: src/cheatsheet-01.svg:2247(tspan)
 #, no-wrap
 msgid "Drag to the side of the screen"
-msgstr ""
+msgstr "Přesuňte na kraj obrazovky"
 
 #: src/cheatsheet-01.svg:2449(tspan)
 #, no-wrap
 msgid "Click the app"
-msgstr ""
+msgstr "Klepněte na ikonu aplikace"
 
 #: src/cheatsheet-01.svg:2529(tspan)
 #, no-wrap
 msgid "Click and hold the app"
-msgstr ""
+msgstr "Klepněte a držte ikonu aplikace"
 
 #: src/cheatsheet-01.svg:2571(tspan)
 #, no-wrap
 msgid "Drag to the dash"
-msgstr ""
+msgstr "Přesuňte na panel"
 
 #: src/cheatsheet-01.svg:2810(tspan)
 #, no-wrap
 msgid "Press return to select"
-msgstr ""
+msgstr "Vyberte stisknutím klávesy Enter"
 
 #: src/cheatsheet-01.svg:2824(tspan)
 #, no-wrap
 msgid "Press the windows key (it's as simple as that)"
-msgstr ""
+msgstr "Zmáčněte klávesu Windows (opravdu je to ta lehké)"
 
 #: src/cheatsheet-01.svg:2884(tspan) src/cheatsheet-01.svg:2912(tspan)
 #, no-wrap
 msgid "Release"
-msgstr ""
+msgstr "Pusťte"
 
 #: src/cheatsheet-01.svg:3556(tspan)
 #, no-wrap
 msgid "ACTIVITIES OVERVIEW"
-msgstr ""
+msgstr "PŘEHLED AKTIVIT"
 

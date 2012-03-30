@@ -52,15 +52,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="370.97442"
-     inkscape:cy="313.62789"
+     inkscape:cx="390.97442"
+     inkscape:cy="890.62789"
      inkscape:document-units="px"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1543"
-     inkscape:window-height="1254"
+     inkscape:window-height="1166"
      inkscape:window-x="2576"
      inkscape:window-y="39"
      inkscape:window-maximized="0"
@@ -1092,14 +1092,14 @@
          id="tspan27422">Open Extra Windows</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold;writing-mode:lr"
-       x="61"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="62"
        y="165.92462"
        id="text2989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="61"
+         x="62"
          y="165.92462">Opening the Activities overview</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -3549,8 +3549,8 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000000999999998px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="62.791016"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.30000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="61.791016"
        y="131.65897"
        id="text4149-9"
        sodipodi:linespacing="125%"
@@ -3559,7 +3559,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4151-3"
-         x="62.791016"
+         x="61.791016"
          y="131.65897">ACTIVITIES OVERVIEW</tspan></text>
     <text
        xml:space="preserve"
