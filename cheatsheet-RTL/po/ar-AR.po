@@ -86,7 +86,7 @@ msgstr "ورقة الغش"
 #: src/cheatsheet-03.svg:934(tspan) src/cheatsheet-02.svg:2450(tspan)
 #, no-wrap
 msgid "* Available since 3.2"
-msgstr "متاح منذ 3.2"
+msgstr "متاح منذ 3.2*"
 
 #: src/cheatsheet-03.svg:945(tspan)
 #, no-wrap
@@ -121,7 +121,7 @@ msgstr "مساحات العمل"
 #: src/cheatsheet-02.svg:1015(tspan)
 #, no-wrap
 msgid "Start an App in a New Workspace"
-msgstr "شغل برنامجاُ في مساحة عمل جديدة"
+msgstr "إفتح برنامج في مساحة عمل جديدة"
 
 #: src/cheatsheet-02.svg:1026(tspan)
 #, no-wrap
@@ -166,7 +166,7 @@ msgstr "أمسك زر ALT"
 #: src/cheatsheet-02.svg:1203(tspan)
 #, no-wrap
 msgid "Switch Between Open Apps"
-msgstr "حوّل بين البرامج المشغلة"
+msgstr "حوّل بين البرامج المفتوحة"
 
 #: src/cheatsheet-02.svg:1220(tspan)
 #, no-wrap
@@ -251,7 +251,7 @@ msgstr "↵"
 #: src/cheatsheet-02.svg:2485(flowPara)
 #, no-wrap
 msgid "Click and hold on the app you want to move"
-msgstr "أنقر وأمسك لتحريك البرنامج الذي تريد"
+msgstr "أنقر وأمسك لتحريك البرنامج الذي تريد تحريكه"
 
 #: src/cheatsheet-01.svg:1092(tspan)
 #, no-wrap
