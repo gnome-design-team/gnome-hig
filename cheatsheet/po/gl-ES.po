@@ -1,0 +1,363 @@
+#
+# Fran Dieguez <frandieguez@gnome.org>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell\n"
+"POT-Creation-Date: 2012-03-30 20:10+0200\n"
+"PO-Revision-Date: 2012-03-31 00:42+0200\n"
+"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"Language-Team: Galician <gnome-l10n-gl@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl_ES\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: src/gettingstarted.svg:2152(format) src/cheatsheet-03.svg:98(format)
+#: src/cheatsheet-02.svg:119(format) src/cheatsheet-01.svg:113(format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#: src/gettingstarted.svg:2203(tspan) src/gettingstarted.svg:2354(tspan)
+#, no-wrap
+msgid "Activities"
+msgstr "Actividades"
+
+#: src/gettingstarted.svg:2570(tspan)
+#, no-wrap
+msgid "Entering Overview"
+msgstr "Entrar na Vista xeral"
+
+#: src/gettingstarted.svg:2582(tspan)
+#, no-wrap
+msgid "Starting Applications"
+msgstr "Iniciar aplicativos"
+
+#: src/gettingstarted.svg:4251(tspan)
+#, no-wrap
+msgid "Press Enter"
+msgstr "Prema Intro"
+
+#: src/gettingstarted.svg:4403(flowPara) src/cheatsheet-03.svg:188(flowPara)
+#: src/cheatsheet-02.svg:210(flowPara) src/cheatsheet-02.svg:1664(tspan)
+#: src/cheatsheet-02.svg:2363(tspan) src/cheatsheet-01.svg:203(flowPara)
+#: src/cheatsheet-01.svg:2442(tspan) src/cheatsheet-01.svg:2564(tspan)
+#: src/cheatsheet-01.svg:2803(tspan) src/cheatsheet-01.svg:2877(tspan)
+#: src/cheatsheet-01.svg:2905(tspan)
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#: src/gettingstarted.svg:4415(tspan)
+#, no-wrap
+msgid "GETTING STARTED"
+msgstr "COMEZAR"
+
+#: src/gettingstarted.svg:4547(tspan)
+#, no-wrap
+msgid "or"
+msgstr "ou"
+
+#: src/gettingstarted.svg:4628(flowPara)
+#, no-wrap
+msgid "Trow the pointer in the top left corner"
+msgstr "Mova o rato á esquina superior esquerda"
+
+#: src/gettingstarted.svg:4640(flowPara)
+#, no-wrap
+msgid "Click on activities"
+msgstr "Prema en «Actividades»"
+
+#: src/gettingstarted.svg:4652(flowPara)
+#, no-wrap
+msgid "Press the logo key on the  keyboard"
+msgstr "Prema a tecla de Logo no teclado"
+
+#: src/gettingstarted.svg:4664(flowPara)
+#, no-wrap
+msgid "When in overview, type the few initial letters of the application name"
+msgstr "Desde a «Vista xeral», escriba as primeiras letras do nome do aplicativo"
+
+#: src/gettingstarted.svg:4676(flowPara)
+#, no-wrap
+msgid "Click a launcher on the dash"
+msgstr "Prema o iniciador desde o panel"
+
+#: src/gettingstarted.svg:4688(flowPara)
+#, no-wrap
+msgid "Drag a launcher from the  dash and drop out of it"
+msgstr "Arrastre o iniciador desde o panel e sólteo fóra del"
+
+#: src/cheatsheet-03.svg:200(tspan) src/cheatsheet-02.svg:222(tspan)
+#: src/cheatsheet-01.svg:215(tspan)
+#, no-wrap
+msgid "CHEAT SHEET"
+msgstr ""
+
+#: src/cheatsheet-03.svg:931(tspan)
+#, no-wrap
+msgid "ENDING YOUR SESSION"
+msgstr "PECHAR A SESIÓN"
+
+#: src/cheatsheet-03.svg:942(tspan)
+#, no-wrap
+msgid "Suspend"
+msgstr "Suspender"
+
+#: src/cheatsheet-03.svg:956(tspan)
+#, no-wrap
+msgid "Close the lid"
+msgstr "Peche a tapa"
+
+#: src/cheatsheet-03.svg:970(tspan)
+#, no-wrap
+msgid "Use the user menu"
+msgstr "Use o menú de usuario"
+
+#: src/cheatsheet-03.svg:984(tspan)
+#, no-wrap
+msgid "Press the power button"
+msgstr "Prema o botón de apagado"
+
+#: src/cheatsheet-02.svg:1005(tspan)
+#, no-wrap
+msgid "WORKSPACES"
+msgstr "ESPAZOS DE TRABALLO"
+
+#: src/cheatsheet-02.svg:1016(tspan)
+#, no-wrap
+msgid "Start an App in a New Workspace"
+msgstr "Iniciar un aplicativo nun novo espazo de traballo"
+
+#: src/cheatsheet-02.svg:1027(tspan)
+#, no-wrap
+msgid "Send Apps and Windows to a Specific Workspace"
+msgstr "Enviar aplicativos e xanelas a un espazo de traballo específico"
+
+#: src/cheatsheet-02.svg:1038(tspan) src/cheatsheet-02.svg:1762(tspan)
+#: src/cheatsheet-01.svg:1400(tspan)
+#, no-wrap
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: src/cheatsheet-02.svg:1052(tspan) src/cheatsheet-02.svg:1227(tspan)
+#: src/cheatsheet-02.svg:1410(tspan) src/cheatsheet-02.svg:1586(tspan)
+#: src/cheatsheet-02.svg:2103(tspan) src/cheatsheet-01.svg:1856(tspan)
+#: src/cheatsheet-01.svg:2051(tspan) src/cheatsheet-01.svg:2240(tspan)
+#: src/cheatsheet-01.svg:2522(tspan) src/cheatsheet-01.svg:2761(tspan)
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#: src/cheatsheet-02.svg:1066(tspan) src/cheatsheet-02.svg:1255(tspan)
+#: src/cheatsheet-02.svg:1438(tspan) src/cheatsheet-02.svg:1600(tspan)
+#: src/cheatsheet-02.svg:2163(tspan) src/cheatsheet-01.svg:2037(tspan)
+#: src/cheatsheet-01.svg:2081(tspan) src/cheatsheet-01.svg:2268(tspan)
+#: src/cheatsheet-01.svg:2550(tspan) src/cheatsheet-01.svg:2789(tspan)
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#: src/cheatsheet-02.svg:1148(tspan)
+#, no-wrap
+msgid "CLICK!"
+msgstr "CLIC!"
+
+#: src/cheatsheet-02.svg:1162(tspan) src/cheatsheet-02.svg:1356(tspan)
+#, no-wrap
+msgid "Hold down the Alt key"
+msgstr "Manteña a tecla Alt"
+
+#: src/cheatsheet-02.svg:1176(tspan)
+#, no-wrap
+msgid "Switch Between Open Apps"
+msgstr "Cambiar entre aplicativos abertos"
+
+#: src/cheatsheet-02.svg:1193(tspan)
+#, no-wrap
+msgid "Tab"
+msgstr "Tab"
+
+#: src/cheatsheet-02.svg:1241(tspan)
+#, no-wrap
+msgid "Press the Tab key (and repeat)"
+msgstr "Prema a tecla Tab (e repita)"
+
+#: src/cheatsheet-02.svg:1272(tspan) src/cheatsheet-02.svg:1455(tspan)
+#, no-wrap
+msgid "Alt"
+msgstr "Alt"
+
+#: src/cheatsheet-02.svg:1370(tspan)
+#, no-wrap
+msgid "Switch Between Windows"
+msgstr "Cambiar entre xanelas"
+
+#: src/cheatsheet-02.svg:1424(tspan)
+#, no-wrap
+msgid "Press the key above tab (and repeat)"
+msgstr "prema a tecla de enriba de Tab (e repita)"
+
+#: src/cheatsheet-02.svg:1536(tspan)
+#, no-wrap
+msgid "`"
+msgstr "`"
+
+#: src/cheatsheet-02.svg:1547(tspan)
+#, no-wrap
+msgid "¬"
+msgstr "¬"
+
+#: src/cheatsheet-02.svg:1558(tspan)
+#, no-wrap
+msgid "|"
+msgstr "|"
+
+#: src/cheatsheet-02.svg:1572(tspan) src/cheatsheet-02.svg:2000(tspan)
+#: src/cheatsheet-01.svg:1068(tspan) src/cheatsheet-01.svg:2489(tspan)
+#: src/cheatsheet-01.svg:2728(tspan)
+#, no-wrap
+msgid "Open the overview"
+msgstr "Abra a vista previa"
+
+#: src/cheatsheet-02.svg:1678(tspan)
+#, no-wrap
+msgid "Drag to the workspace"
+msgstr "Arrástreo ao espazo de traballo"
+
+#: src/cheatsheet-02.svg:1986(tspan) src/cheatsheet-01.svg:3577(tspan)
+#, no-wrap
+msgid "WINDOWS"
+msgstr "XANELAS"
+
+#: src/cheatsheet-02.svg:2014(tspan)
+#, no-wrap
+msgid "Open Extra Windows Using Search*"
+msgstr "Abrir xanelas adicionais empregando a busca*"
+
+#: src/cheatsheet-02.svg:2038(tspan) src/cheatsheet-01.svg:1358(tspan)
+#: src/cheatsheet-01.svg:2067(tspan)
+#, no-wrap
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: src/cheatsheet-02.svg:2149(tspan) src/cheatsheet-01.svg:2775(tspan)
+#, no-wrap
+msgid "Just type to search"
+msgstr "Escriba para buscar"
+
+#: src/cheatsheet-02.svg:2377(tspan)
+#, no-wrap
+msgid "Press ctrl+return to select"
+msgstr "Prema Ctrl+Intro para seleccionar"
+
+#: src/cheatsheet-02.svg:2394(tspan) src/cheatsheet-01.svg:2848(tspan)
+#, no-wrap
+msgid "↵"
+msgstr "↵"
+
+#: src/cheatsheet-02.svg:2423(tspan)
+#, no-wrap
+msgid "* Available since 3.2"
+msgstr "* Dispoñíbel desde a versión 3.2"
+
+#: src/cheatsheet-02.svg:2458(flowPara)
+#, no-wrap
+msgid "Click and hold on the app you want to move"
+msgstr "Prema e manteña o aplicativo que quere mover"
+
+#: src/cheatsheet-02.svg:2471(flowPara)
+#, no-wrap
+msgid "Place the cursor over the app"
+msgstr "Poña o cursor sobre o aplicativo"
+
+#: src/cheatsheet-02.svg:2483(flowPara)
+#, no-wrap
+msgid "Click with the middle button"
+msgstr "Prema co botón do medio"
+
+#: src/cheatsheet-01.svg:1092(tspan)
+#, no-wrap
+msgid "Open Extra Windows"
+msgstr "Abrir xanelas adicionais"
+
+#: src/cheatsheet-01.svg:1103(tspan)
+#, no-wrap
+msgid "Opening the Activities overview"
+msgstr "Abra a vista xeral de «Actividades»"
+
+#: src/cheatsheet-01.svg:1114(tspan)
+#, no-wrap
+msgid "Search"
+msgstr "Buscar"
+
+#: src/cheatsheet-01.svg:1128(tspan)
+#, no-wrap
+msgid "Maximize"
+msgstr "Maximizar"
+
+#: src/cheatsheet-01.svg:1139(tspan)
+#, no-wrap
+msgid "Favorite Applications"
+msgstr "Aplicativos favoritos"
+
+#: src/cheatsheet-01.svg:1433(tspan) src/cheatsheet-01.svg:2226(tspan)
+#, no-wrap
+msgid "Click and hold the titlebar"
+msgstr "Prema e manteña a barra de título"
+
+#: src/cheatsheet-01.svg:2023(tspan)
+#, no-wrap
+msgid "Drag to the top of the screen"
+msgstr "Arrástrea á parte superior da pantalla"
+
+#: src/cheatsheet-01.svg:2065(tspan)
+#, no-wrap
+msgid "Hold down the <placeholder-1/> key"
+msgstr "Manteña a tecla <placeholder-1/>"
+
+#: src/cheatsheet-01.svg:2137(tspan)
+#, no-wrap
+msgid "Resize to Half of the Screen"
+msgstr "Redimensionar á metade da pantalla"
+
+#: src/cheatsheet-01.svg:2254(tspan)
+#, no-wrap
+msgid "Drag to the side of the screen"
+msgstr "Arrastre ao bordo lateral da pantalla"
+
+#: src/cheatsheet-01.svg:2456(tspan)
+#, no-wrap
+msgid "Click the app"
+msgstr "Prema sobre o aplicativo"
+
+#: src/cheatsheet-01.svg:2536(tspan)
+#, no-wrap
+msgid "Click and hold the app"
+msgstr "Prema e manteña o aplicativo"
+
+#: src/cheatsheet-01.svg:2578(tspan)
+#, no-wrap
+msgid "Drag to the dash"
+msgstr "Arrástreo ao panel"
+
+#: src/cheatsheet-01.svg:2817(tspan)
+#, no-wrap
+msgid "Press return to select"
+msgstr "Prema Intro para seleccionar"
+
+#: src/cheatsheet-01.svg:2831(tspan)
+#, no-wrap
+msgid "Press the logo key (it's as simple as that)"
+msgstr "Prema a tecla Logo (tan doado como iso)"
+
+#: src/cheatsheet-01.svg:2891(tspan) src/cheatsheet-01.svg:2919(tspan)
+#, no-wrap
+msgid "Release"
+msgstr "Solte"
+
+#: src/cheatsheet-01.svg:3563(tspan)
+#, no-wrap
+msgid "ACTIVITIES OVERVIEW"
+msgstr "VISTA XERAL DE ACTIVIDADES"
