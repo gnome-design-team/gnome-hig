@@ -31,7 +31,7 @@ msgstr "Toepassingen starten"
 #: src/gettingstarted.svg:4251(tspan)
 #, no-wrap
 msgid "Press Enter"
-msgstr "Druk Enter"
+msgstr "Druk op Enter"
 
 #: src/gettingstarted.svg:4403(flowPara) src/cheatsheet-03.svg:188(flowPara) src/cheatsheet-02.svg:210(flowPara) src/cheatsheet-02.svg:1664(tspan) src/cheatsheet-02.svg:2363(tspan) src/cheatsheet-01.svg:203(flowPara) src/cheatsheet-01.svg:2442(tspan) src/cheatsheet-01.svg:2564(tspan) src/cheatsheet-01.svg:2803(tspan) src/cheatsheet-01.svg:2877(tspan) src/cheatsheet-01.svg:2905(tspan)
 #, no-wrap
@@ -41,7 +41,7 @@ msgstr "3"
 #: src/gettingstarted.svg:4415(tspan)
 #, no-wrap
 msgid "GETTING STARTED"
-msgstr ""
+msgstr "AAN DE SLAG"
 
 #: src/gettingstarted.svg:4547(tspan)
 #, no-wrap
@@ -51,7 +51,7 @@ msgstr "of"
 #: src/gettingstarted.svg:4628(flowPara)
 #, no-wrap
 msgid "Trow the pointer in the top left corner"
-msgstr "Werp de muis cursor naar de linker bovenhoek"
+msgstr "Werp de muiscursor naar de linkerbovenhoek"
 
 #: src/gettingstarted.svg:4640(flowPara)
 #, no-wrap
@@ -81,7 +81,7 @@ msgstr "Sleep een icoon uit de dash en laat los"
 #: src/cheatsheet-03.svg:200(tspan) src/cheatsheet-02.svg:222(tspan) src/cheatsheet-01.svg:215(tspan)
 #, no-wrap
 msgid "CHEAT SHEET"
-msgstr ""
+msgstr "KORTE HANDLEIDING"
 
 #: src/cheatsheet-03.svg:931(tspan)
 #, no-wrap
@@ -116,12 +116,12 @@ msgstr "WERKOMGEVINGEN"
 #: src/cheatsheet-02.svg:1016(tspan)
 #, no-wrap
 msgid "Start an App in a New Workspace"
-msgstr "Start een toepassing in een nieuwe werkomgeving"
+msgstr "Een toepassing in een nieuwe werkomgeving starten"
 
 #: src/cheatsheet-02.svg:1027(tspan)
 #, no-wrap
 msgid "Send Apps and Windows to a Specific Workspace"
-msgstr "Stuur een toepassing en venster naar een bepaalde werkomgeving"
+msgstr "Toepassingen en vensters naar een bepaalde werkomgeving sturen"
 
 #: src/cheatsheet-02.svg:1038(tspan) src/cheatsheet-02.svg:1762(tspan) src/cheatsheet-01.svg:1400(tspan)
 #, no-wrap
@@ -151,7 +151,7 @@ msgstr "Houd de Alt-toets ingedrukt"
 #: src/cheatsheet-02.svg:1176(tspan)
 #, no-wrap
 msgid "Switch Between Open Apps"
-msgstr "Wissel tussen open toepassingen"
+msgstr "Tussen open toepassingen wisselen"
 
 #: src/cheatsheet-02.svg:1193(tspan)
 #, no-wrap
@@ -171,7 +171,7 @@ msgstr "Alt"
 #: src/cheatsheet-02.svg:1370(tspan)
 #, no-wrap
 msgid "Switch Between Windows"
-msgstr "Wissel tussen vensters"
+msgstr "Tussen vensters wisselen"
 
 #: src/cheatsheet-02.svg:1424(tspan)
 #, no-wrap
@@ -211,7 +211,7 @@ msgstr "VENSTERS"
 #: src/cheatsheet-02.svg:2014(tspan)
 #, no-wrap
 msgid "Open Extra Windows Using Search*"
-msgstr "Open extra vensters door zoeken te gebruiken*"
+msgstr "Extra vensters openen door zoeken te gebruiken*"
 
 #: src/cheatsheet-02.svg:2038(tspan) src/cheatsheet-01.svg:1358(tspan) src/cheatsheet-01.svg:2067(tspan)
 #, no-wrap
@@ -226,7 +226,7 @@ msgstr "Type om te zoeken"
 #: src/cheatsheet-02.svg:2377(tspan)
 #, no-wrap
 msgid "Press ctrl+return to select"
-msgstr "Druk op ctrl+enter om te selecteren"
+msgstr "Druk op Ctrl+Enter om te selecteren"
 
 #: src/cheatsheet-02.svg:2394(tspan) src/cheatsheet-01.svg:2848(tspan)
 #, no-wrap
@@ -256,7 +256,7 @@ msgstr "Klik met de middelste muisknop"
 #: src/cheatsheet-01.svg:1092(tspan)
 #, no-wrap
 msgid "Open Extra Windows"
-msgstr "Open extra vensters"
+msgstr "Extra vensters openen"
 
 #: src/cheatsheet-01.svg:1103(tspan)
 #, no-wrap
@@ -271,7 +271,7 @@ msgstr "Zoeken"
 #: src/cheatsheet-01.svg:1128(tspan)
 #, no-wrap
 msgid "Maximize"
-msgstr "Maximaliseer"
+msgstr "Maximaliseren"
 
 #: src/cheatsheet-01.svg:1139(tspan)
 #, no-wrap
@@ -296,7 +296,7 @@ msgstr "Houd de <placeholder-1/>-toets ingedrukt"
 #: src/cheatsheet-01.svg:2137(tspan)
 #, no-wrap
 msgid "Resize to Half of the Screen"
-msgstr "Schaal naar de helft van het scherm"
+msgstr "Naar de helft van het scherm schalen"
 
 #: src/cheatsheet-01.svg:2254(tspan)
 #, no-wrap
