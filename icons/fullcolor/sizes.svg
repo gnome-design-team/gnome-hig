@@ -5398,7 +5398,7 @@
      inkscape:zoom="1"
      inkscape:cx="384.05895"
      inkscape:cy="332.26972"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -5521,7 +5521,7 @@
          id="g3266"
          transform="matrix(1,0,-0.8,0.8,71.2,-2.2)" />
       <rect
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.50612245"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.1877551"
          id="rect40807"
          width="512"
          height="512"
@@ -6989,29 +6989,6 @@
              inkscape:connector-curvature="0" />
         </g>
       </g>
-      <text
-         inkscape:label="context"
-         id="context-7"
-         y="-357.48639"
-         x="54.970734"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           y="-357.48639"
-           x="54.970734"
-           id="tspan2716-9"
-           sodipodi:role="line">apps</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         xml:space="preserve"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         x="124.97074"
-         y="-357.48639"
-         id="text3021-9"
-         inkscape:label="icon-name"><tspan
-           sodipodi:role="line"
-           id="tspan3023-9"
-           x="124.97074"
-           y="-357.48639">photos</tspan></text>
       <path
          d="m 84,598 c 0,4.97056 -4.029437,9 -9,9 -4.970563,0 -9,-4.02944 -9,-9 0,-4.97056 4.029437,-9 9,-9 4.970563,0 9,4.02944 9,9 z"
          sodipodi:ry="9"
