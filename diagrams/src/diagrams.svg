@@ -126,19 +126,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1527.3846"
-     inkscape:cy="2391.0687"
+     inkscape:zoom="0.5"
+     inkscape:cx="2435.7141"
+     inkscape:cy="1498.8496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1134"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4382"
@@ -164,8 +166,7 @@
      id="layer2"
      inkscape:label="base"
      transform="translate(0,2747.6378)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
        id="rect6187"
@@ -230,48 +231,6 @@
          id="tspan6201"
          sodipodi:role="line">View Switcher</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
-       id="rect6203"
-       width="938"
-       height="538"
-       x="1421"
-       y="-306.63782"
-       inkscape:export-filename="/home/aday/Dropbox/Public/hig/anatomy.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="1425"
-       y="-333.63782"
-       id="text6205"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6207"
-         x="1425"
-         y="-333.63782">Search</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/aday/Dropbox/Public/hig/anatomy.png"
-       y="333.3623"
-       x="1421"
-       height="538"
-       width="938"
-       id="rect6209"
-       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text6211"
-       y="306.3623"
-       x="1425"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="306.3623"
-         x="1425"
-         id="tspan6213"
-         sodipodi:role="line">Selection Mode</tspan></text>
-    <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/content-overview.png"
@@ -315,69 +274,6 @@
          sodipodi:role="line">Content Overview</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
-       id="rect6957"
-       width="938"
-       height="538"
-       x="2521"
-       y="-946.63782"
-       inkscape:export-filename="/home/aday/Dropbox/Public/hig/anatomy.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="2525"
-       y="-973.63782"
-       id="text6959"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6961"
-         x="2525"
-         y="-973.63782">Notifications</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/aday/Dropbox/Public/hig/anatomy.png"
-       y="-306.63782"
-       x="2521"
-       height="538"
-       width="938"
-       id="rect6963"
-       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text6965"
-       y="-333.63782"
-       x="2525"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="-333.63782"
-         x="2525"
-         id="tspan6967"
-         sodipodi:role="line">Dialog Windows</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
-       id="rect6969"
-       width="938"
-       height="538"
-       x="2521"
-       y="333.3623"
-       inkscape:export-filename="/home/aday/Dropbox/Public/hig/anatomy.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="2525"
-       y="306.3623"
-       id="text6971"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6973"
-         x="2525"
-         y="306.3623">Full Screen</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
        id="rect20341"
        width="938"
        height="1318"
@@ -408,12 +304,98 @@
          x="145"
          id="tspan9577"
          sodipodi:role="line">Application Anatomy</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       y="-946.6377"
+       x="2521"
+       height="538"
+       width="938"
+       id="rect3940"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3942"
+       y="-973.6377"
+       x="2525"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="-973.6377"
+         x="2525"
+         id="tspan3944"
+         sodipodi:role="line">Message Dialog</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       id="rect4884"
+       width="938"
+       height="538"
+       x="2521"
+       y="-286.6377"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="2525"
+       y="-313.6377"
+       id="text4886"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4888"
+         x="2525"
+         y="-313.6377">Message Dialog</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       y="-286.6377"
+       x="1461"
+       height="538"
+       width="938"
+       id="rect4946"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4948"
+       y="-313.6377"
+       x="1465"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="-313.6377"
+         x="1465"
+         id="tspan4950"
+         sodipodi:role="line">Message Dialog</tspan></text>
   </g>
   <g
      inkscape:label="diagrams"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,2747.6378)">
+    <rect
+       style="fill:#e5e6e5;fill-opacity:1;stroke:#a7aba7;stroke-width:0.99999994;stroke-opacity:1"
+       id="rect3946"
+       width="685"
+       height="106"
+       x="2649.5"
+       y="-895.1377"
+       rx="9"
+       ry="9"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-854.1377"
+       x="2649.5"
+       height="386"
+       width="685"
+       id="rect3948"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       mask="none"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g8098"
        transform="translate(200,-64)">
@@ -6344,5 +6326,557 @@
            y="760" />
       </g>
     </g>
+    <g
+       id="g4080"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;opacity:0.25"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003;stroke-opacity:1"
+         id="rect4076"
+         width="685"
+         height="106"
+         x="2649.5"
+         y="-895.1377"
+         rx="9"
+         ry="9" />
+      <rect
+         y="-854.1377"
+         x="2649.5"
+         height="386"
+         width="685"
+         id="rect4078"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         mask="none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3950"
+       d="m 3293.5,-886.26351 0,23.25139"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#888a85;display:inline"
+       transform="translate(3306.0016,-882.6377)"
+       id="g3952"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-60,-518)"
+         id="g3954"
+         style="fill:#888a85;display:inline" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3956" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3958" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3960">
+        <g
+           transform="translate(19,-242)"
+           id="g3962"
+           style="fill:#888a85;display:inline">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 45,764 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 l 0,-1 z"
+             id="path3964"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" />
+        </g>
+      </g>
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3966" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3968" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g3970" />
+    </g>
+    <rect
+       mask="none"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4852"
+       width="279"
+       height="119.00009"
+       x="2852.5"
+       y="-727.13782"
+       rx="3"
+       ry="2.9999998"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2991.5,-641.24447 0,33.00204"
+       id="path4854"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4856"
+       d="m 3131.5,-641.24453 -279,0"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="2921.1868"
+       y="-619.90643"
+       id="text4858"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4860"
+         x="2921.1868"
+         y="-619.90643">Cancel</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4862"
+       y="-619.90643"
+       x="3061.7461"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-619.90643"
+         x="3061.7461"
+         id="tspan4864"
+         sodipodi:role="line">Remove</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4870"
+       y="-699.90643"
+       x="2991.7502"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-699.90643"
+         x="2991.7502"
+         id="tspan4872"
+         sodipodi:role="line">Remove Account?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="2991.7502"
+       y="-679.90643"
+       id="text4874"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="2991.7502"
+         y="-679.90643"
+         id="tspan4878">Removing the account will cause</tspan><tspan
+         sodipodi:role="line"
+         x="2991.7502"
+         y="-662.40643"
+         id="tspan4882">your messages to be removed.</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       ry="9"
+       rx="9"
+       y="-235.1377"
+       x="2649.5"
+       height="106"
+       width="685"
+       id="rect4890"
+       style="fill:#e5e6e5;fill-opacity:1;stroke:#a7aba7;stroke-width:0.99999994;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       mask="none"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4892"
+       width="685"
+       height="386"
+       x="2649.5"
+       y="-194.1377" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="g4894"
+       transform="translate(0,660)">
+      <rect
+         ry="9"
+         rx="9"
+         y="-895.1377"
+         x="2649.5"
+         height="106"
+         width="685"
+         id="rect4896"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1" />
+      <rect
+         mask="none"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4898"
+         width="685"
+         height="386"
+         x="2649.5"
+         y="-854.1377" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 3293.5,-226.26351 0,23.25139"
+       id="path4900"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       id="g4902"
+       transform="translate(3306.0016,-222.6377)"
+       style="fill:#888a85;display:inline">
+      <g
+         style="fill:#888a85;display:inline"
+         id="g4904"
+         transform="translate(-60,-518)" />
+      <g
+         id="g4906"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g4908"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g4910"
+         transform="translate(-60,-518)"
+         style="fill:#888a85">
+        <g
+           style="fill:#888a85;display:inline"
+           id="g4912"
+           transform="translate(19,-242)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+             id="path4914"
+             d="m 45,764 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 l 0,-1 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g4916"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g4918"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g4920"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       ry="2.9999998"
+       rx="3"
+       y="-67.137817"
+       x="2852.5"
+       height="119.00009"
+       width="279"
+       id="rect4922"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       mask="none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:connector-curvature="0"
+       id="path4924"
+       d="m 2991.5,18.75553 0,33.00204"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3131.5,18.75547 -279,0"
+       id="path4926"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       sodipodi:linespacing="125%"
+       id="text4928"
+       y="40.093567"
+       x="2921.1868"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="40.093567"
+         x="2921.1868"
+         id="tspan4930"
+         sodipodi:role="line">Cancel</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="3061.7461"
+       y="40.093567"
+       id="text4932"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4934"
+         x="3061.7461"
+         y="40.093567">Remove</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       x="2991.7502"
+       y="-39.906433"
+       id="text4936"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4938"
+         x="2991.7502"
+         y="-39.906433">Remove Account?</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       sodipodi:linespacing="125%"
+       id="text4940"
+       y="-19.906433"
+       x="2991.7502"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         id="tspan4942"
+         y="-19.906433"
+         x="2991.7502"
+         sodipodi:role="line">Removing the account will cause</tspan><tspan
+         id="tspan4944"
+         y="-2.4064331"
+         x="2991.7502"
+         sodipodi:role="line">your messages to be removed.</tspan></text>
+    <rect
+       style="fill:#e5e6e5;fill-opacity:1;stroke:#a7aba7;stroke-width:0.99999994;stroke-opacity:1"
+       id="rect4952"
+       width="685"
+       height="106"
+       x="1589.5"
+       y="-235.1377"
+       rx="9"
+       ry="9"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-194.1377"
+       x="1589.5"
+       height="386"
+       width="685"
+       id="rect4954"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       mask="none"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-1060,660)"
+       id="g4956"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+         id="rect4958"
+         width="685"
+         height="106"
+         x="2649.5"
+         y="-895.1377"
+         rx="9"
+         ry="9" />
+      <rect
+         y="-854.1377"
+         x="2649.5"
+         height="386"
+         width="685"
+         id="rect4960"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         mask="none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4962"
+       d="m 2233.5,-226.26351 0,23.25139"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#888a85;display:inline"
+       transform="translate(2246.0016,-222.6377)"
+       id="g4964"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-60,-518)"
+         id="g4966"
+         style="fill:#888a85;display:inline" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4968" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4970" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4972">
+        <g
+           transform="translate(19,-242)"
+           id="g4974"
+           style="fill:#888a85;display:inline">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 45,764 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 l 0,-1 z"
+             id="path4976"
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" />
+        </g>
+      </g>
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4978" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4980" />
+      <g
+         style="fill:#888a85"
+         transform="translate(-60,-518)"
+         id="g4982" />
+    </g>
+    <rect
+       mask="none"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#a7a7a7;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4984"
+       width="279"
+       height="119.00009"
+       x="1792.5"
+       y="-67.137817"
+       rx="3"
+       ry="2.9999998"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1931.5,18.75553 0,33.00204"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4988"
+       d="m 2071.5,18.75547 -279,0"
+       style="fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1861.1868"
+       y="40.093567"
+       id="text4990"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4992"
+         x="1861.1868"
+         y="40.093567">Cancel</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4994"
+       y="40.093567"
+       x="2001.7461"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="40.093567"
+         x="2001.7461"
+         id="tspan4996"
+         sodipodi:role="line">Remove</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4998"
+       y="-39.906433"
+       x="1931.7502"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-39.906433"
+         x="1931.7502"
+         id="tspan5000"
+         sodipodi:role="line">Remove Account?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1931.7502"
+       y="-19.906433"
+       id="text5002"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/aday/checkout/gnome-hig/diagrams/message-dialog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="1931.7502"
+         y="-19.906433"
+         id="tspan5004">Removing the account will cause</tspan><tspan
+         sodipodi:role="line"
+         x="1931.7502"
+         y="-2.4064331"
+         id="tspan5006">your messages to be removed.</tspan></text>
   </g>
 </svg>
